@@ -123,7 +123,7 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 	- Kifakadásos elmélkedés arról, hogy hogyan kell(ene) viszonyulni a politikai pártokhoz.
 	- 47\. és k. oo.: Mindezt nem azért említem, hogy utáljuk a pártokat. De azért szeretni se kell őket. Új keletű tévedés ez, mely a szeretet és a megvetés között indáz. Mind a kettő veszélyes. Az egyik antidemokratikus küldetésérzethez vezet, a másik meg antidemokratikus parlamenten kívüliséghez. \[…] A pártokat hűvösen tudomásul venni, s megpróbálni bízni bennük, szerintem ennyi tehető. Pontosabban bíz\[48. o.]ni és nem bízni, komolyan venni és fittyet hányni, bízni, hogy valamennyit képviselnek az érdekeinkből és nem bízni, tudván, hogy mindent, de igazán mindent nekünk magunknak kell megcsinálnunk, nincsen senki, aki helyettünk gondolkodna, dolgozna (ragozná az ikes igéket), nincsen senki, aki helyettünk volna. \[[moly.hu](https://moly.hu/idezetek/2031040) (saját)]
 - Kikukorica … 48
-	- #JordánTamás #LázárKatalin #ThomasMann #LányiViktor #SzőllősyKlára #SárköziGyörgy #FüstMilán #MiroslavMandič #HambasBéla #MiloradKristič
+	- #JordánTamás #LázárKatalin #ThomasMann #LányiViktor #SzőllősyKlára #SárköziGyörgy #FüstMilán #MiroslavMandič #HamvasBéla #MiloradKristič
 	- Kifakadás a rádióban tapasztalható állapotokról. Valójában a fordításelméletről elmélkedik a *Tonio Kröger* német nyelven történt elolvasása kapcsán. Jó fej szerbekről ír, az egyik Hamvas tiszteletére sétál Budapesten, a másiknak a festménye a Roczkov Galériában látható. Énekel a rádióban („nem lehet a Csillagheggyel kikukoricázni”).
 - Hosszú nap el … 50
 	- #KulinFerenc #ElekIstván #GáspárSándor #SzabóIván #BorbélySzilárd #GombárCsaba #BrennerGyörgy
