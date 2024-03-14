@@ -1,0 +1,43 @@
+---
+author: Herbert, Frank
+title: A Dűne
+volume: 1–2.
+series: Kozmosz Fantasztikus Könyvek, ISSN 0324-5225
+place: Budapest
+publisher: Kozmosz Könyvek
+year: "1987"
+isbn: 963-211-765-4
+isbn (set): 963-211-767-0
+language: Hungarian
+translator: Békés András
+---
+# Első könyv. A Dűne
+1. 5. o. #PaulAtreides #LadyJessica #GaiusHelenMohiam Paul kiállja a gom-dzsabbar próbáját.
+2. 22. o. #VladimirHarkonnen #Feyd-RauthaHarkonnen #PiterDeVries Harkonnen báró megbeszéli Mentátjával és unokaöccsével az Atreidesek elleni csapdát és nagyszabású tervét.
+3. 35. o. #LadyJessica #GaiusHelenMohiam #PaulAtreides A Tisztelendő Anya beszél Lady Jessicának a sorsáról, majd Paul elmeséli neki álmát egy lányról.
+4. 44. o. #ThufirHawat #PaulAtreides #GurneyHalleck Thufir Hawat és Paul beszélgetnek Arrakisról, majd Gurney megjön, énekel, és fegyverismeretet tanít Paulnak.
+	- … az uralkodónak meg kell tanulnia \[50] kényszerítés helyett meggyőzni. Neki kell a legtöbbet adnia, hogy a legtöbbet kapja, hogy a legjobbak álljanak melléje. 49–50. o.
+5. 60. o.
+6. 66. o.
+7. 74. o.
+8. 90. o.
+9. 103. o.
+10. 109. o.
+11. 121. o.
+12. 128. o.
+13. 152. o.
+14. 159. o.
+15. 164. o.
+16. 197. o.
+17. 229. o.
+18. 247. o.
+19. 253. o.
+20. 269. o.
+21. 273. o.
+22. 292. o.
+
+# Arab fordítás
+فرانك هربرت: كثيب, كويت: دار كلمات (Kuwait: Dar Kalemat), 2021, ISBN 9789921730746 (Fordító: نادر أسامة, Nader Osama)
+# Filmkritika
+- Khaldoun Khelil (2021): Erasing Arabs from “Dune” – [inkstickmedia.com](https://inkstickmedia.com/erasing-arabs-from-dune/)
+- Ali Karjoo-Ravary (2020): In Dune, Paul Atreides led a jihad, not a crusade – [aljazeera.com](https://www.aljazeera.com/opinions/2020/10/11/paul-atreides-led-a-jihad-not-a-crusade-heres-why-that-matters)
