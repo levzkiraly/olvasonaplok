@@ -193,7 +193,9 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 	- 77. és k. oo.: … egyszercsak váratlanul valami ismert elérzékenyü-\[78.]lés fogta el (váltsunk csak szemérmesen harmadik személybe), amit, mondjuk, húsz éve érzett, például Ottlikkal kapcsolatban, úgy gondolva, hogy Ottlik segít neki, azzal, hogy dolgozik, hogy ég a szobájában a lámpa, és akkor most azt, hogy ez a világ távoli pontján, sőt pontjain épülő mű valahogy kapcsolódik az ő munkájához, ez is segít, hogy hirtelen ez az udvarias, olyan nagyon jellemzően európai, civilizált kapcsolat, amely nem személytelen, nem is fölületes, mert annyi, amennyi, de mégis súlytalan, vagy még ez sem, ez is túl kritikai volna, nem is hűvös, de lobogónak semmiképpen sem az, egyszercsak a forró hála micsodájával telítődött; újabban sokszor érte tetten magában ezt a hálát – amúgy is hálás természetű –, ha valamiféle, akár csak laza szellemi közösségre lelt. Rémült ellenkezést talált magában a nem-szellemivel szemben, és ez kevésbé finnyásság volt, mint inkább, mondjuk így, a nem-olvasótól való félelem. Félelem a szó nélküli világtól.
 ## Közszolgálati glosszák … 
 - Esti kérdés … 81
+	- Mi volna – csak kérdezi –, ha nem az lenne a férfias, ha valaki bevallja, hogy III/III-as volt; és mi, ha nem az ilyenek közül kerülnének ki a közszereplők?
 - Mégse, avagy a taxis és a kurva anyám … 81
+	- Egy durva szóbeli bántás feldolgozása, miután a reptéren a táskája súrolta egy taxi lökhárítóját. „Mégse leszek cigány meg zsidó, elég ez így is.” (82.)
 - Talált tárgy, 1991 végén … 82
 - Gerincpornó … 83
 - Az örök magyar vágy … 84
