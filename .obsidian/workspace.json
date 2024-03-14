@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "c064d2982d93a71b",
+    "type": "split",
+    "children": [
+      {
+        "id": "909ecc9ac6cf1bd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7cf034f6282582f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Greene, Robert - The Laws of Human Nature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7cbbcf113f1826d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebdfaee04d3371f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6750e5ddf194507",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "268f5969b9def953",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "649caa858e2bed77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8eb373b0c0ec3f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e2f2bc34e1fcb2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9925ffa7c3d1d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Greene, Robert - The Laws of Human Nature.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f47180b837375ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Greene, Robert - The Laws of Human Nature.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e9309509ae93941",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfc518129070525b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Greene, Robert - The Laws of Human Nature.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c7cf034f6282582f",
+  "lastOpenFiles": [
+    "README.md",
+    "Herbert, Frank - A Dűne 1–2..md",
+    "Esterházy Péter - Egy kékharisnya följegyzéseiből.md",
+    "Leaf, Caroline - Ki kapcsolta ki az agyam.md",
+    "Greene, Robert - The Laws of Human Nature.md",
+    "Bogáti Fazakas Miklós - Psalterium.md",
+    "cikkek/Shannon, E. C. - A Mathematical Theory of Communication.md",
+    "Cicero - De fato.md",
+    "kurzusjegyzetek/ChatGPT - Complete ChatGPT Course For Work 2023 (Ethically)!.md",
+    "kurzusjegyzetek",
+    "cikkek"
+  ]
+}
