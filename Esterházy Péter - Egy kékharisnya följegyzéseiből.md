@@ -197,25 +197,63 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 - Mégse, avagy a taxis és a kurva anyám … 81
 	- Egy durva szóbeli bántás feldolgozása, miután a reptéren a táskája súrolta egy taxi lökhárítóját. „Mégse leszek cigány meg zsidó, elég ez így is.” (82.)
 - Talált tárgy, 1991 végén … 82
+	- Antirajongói levél, egy az egyben leközölve. Minden jellemzőjét felvonultatja annak, amikor valaki nincs tisztában azzal, mennyire hülye, és ezért a profinál is okosabbnak képzeli magát. Kiváló összeesküvéselmélet-elemek is találhatóak benne.
+	- 82. o.: ”Író„ Úr! \[⏎] Biztos *nem lesz merészsége* végigolvasni egy 7800 Ft jövedelmű diplomás ember sorait!
+	- 83. o.: A „földet vissza nem veszek” – című nagyvonalú kijelentései is kommunista urainak malmára akarja hajtani a vizet! \[…] Mentési akció ez, kedves uram! Igaz, fizetnek is érte, Önnek megéri. \[…] Én nem hiszem, hogy egy gondolkodó ember ne látná, hogy az úgynevezett „liberálisok” csak a köpönyeget fordították ki! – Ha pedig látja és szemet huny fölötte, sőt a *Gondolat-jel*-nek nyilatkozgat, akkor….…?– Minket is megtévesztettek, de mi éberen figyelünk, kombinálunk és félünk tőlük és Öntől is!!
 - Gerincpornó … 83
-- Az örök magyar vágy … 84
+	- Pár soros jegyzet arról, hogy egy katona szájából egy költő idézi egy lapban, amint az felszólítja a vendégeket, *különösen a nőket,* hogy szüljenek minél több gyereket.
+- Az örök magyar vágy \[ – *néprajzi töredék (új gyűjtés)* – ] … 84
+	- Pár soros jegyzet egy igazán bájos nyelvbotlásról.
+	- 84. o.: „Szeretném végre otthon érezni magam, legalább itt, a szűkebb pátriárkámban!”
 - Hahn-Hahn gróf pillantása … 84
+	- #VladimirMečiar
+	- Pár soros jegyzet a szlovák miniszterelnök, Vladimir Mečiar megjegyzéséről, miszerint nem a Dunát terelték el, hanem a hajózást.
+	- Jegyzet magamnak: a cím utalás saját regényére, a *Hahn-Hahn grófnő pillantása* címűre.
+	- 84. o.: Egy gyöngyszem a Dunából, e jelentős szlovák tóból.
 - Szahar … 84
+	- A meghívólevelek megalázó nyűgéről saját emlékei alapján, és arról, hogy egy kortárs kolozsvári írónőnek magyar meghívólevél kell, hogy EP átölelhesse, és még a határon se kelljen a szükséges előírt pénzmennyiséget bemutatnia.
 - Hogyan alázzuk meg a Kolozsvári Magyar Színházat … 85
+	- #MolnárGálPéter
+	- Felháborodik azon, hogy meghívják a Kolozsvári Magyar Színházat, de közönségszervezés gyanánt idióta gimnazistákat terelnek be az előadásokra, és máshol nem is hirdetik meg azokat. 1991. november 4., Nemzeti Színház. Visszaemlékezik arra, hogy néhány éve a nép-nemzeti „gerinc” milyen erővel töltött meg egy nézőteret hasonló alkalmakon, s hogy ez most mennyire hétköznapi; nép-nemzetiből csak Molnár Gál P.-t „abszolválhatta”.
 - Dés, a nímand … 86
-- Új kor, új baj … 87
+	- #DésLászló #DarvasFerenc #MelisLászló #MichelangeloAntonioni
+	- Felháborodik azon, hogy a rádióban úgy kritizálják Dés László „Sose halunk meg”-jét, hogy még a nevét sem említik meg; és hogy Melishez és Darvashoz méregetik, majd egy fogkrémreklámhoz és egy Antonioni-látomás szürkeségéhez hasonlítják, s ezt mind egy mondatban.
+- Új kor, új baj \[ – *néprajzi töredék (új gyűjtés)* – ] … 87
+	- Pár soros jegyzet, valójában gyűjtés autóbuszról: „– Én iszom meg a fax levét! – Editkém, isszuk, nem isszuk, nincsen más.”
 - Arany János (FIDESZ) hozzászól … 87
+	- #AranyJános 
+	- Idézi *A szájasok* c. vers (1878) mind a négy sorát – feltehetőleg a korabeli Fideszes politikai hozzászólásokra emlékeztet.
 - Marha … 87
-- Hogyan nyomódik meg egy gomb? … 88
+	- #KonrádGyörgy #CsoóriSándor #SütőAndrás #NádasPéter #ErkelFerenc #JanisJoplin
+	- Pár soros jegyzet arról, hogy Szerzőt a legnagyobb magyar írók közt méltatja egy újság.
+	- 87. o.: Hát ez marha jó! (Zene: mint rendesen, Erkel: Hunyadi, illetve Janis Joplin ördögi kacaja a Mercedes Benz végéről.)
+- Hogyan nyomódik meg egy gomb? \[ – *költő-képviselő monológja malőr után* – ] … 88
+	- #ThürmerGyula #KonrádGyörgy #HarasztiMiklós #MarosánGyörgy
+	- Karinthys szösszenet egy szavazógomb felelőtlen megnyomásáról, melyben a költő a szonettírásra fogja a hibát. József Attila, Romhányi-idézetek stb.
+	- 88. o.: … puff neki, a rímre megbillent a könyököm, igen, én most befogom pörös számat, györgy sorost, elnézést, négysorost kellett volna írnom…
 - Csurkázás, Tamás-Gáspározás … 88
-- A vélemény hír, a szent szabad … 89
+	- #CsurkaIstván #TamásGáspárMiklós #KazinczyFerenc #FüstMilán0
+	- 88. o.: Ősmagyar szók, a besenyő lófők hozták be Izraelből, Kazinczy engedélyével.
+	- 88–89. o.: Nota bene, a kultúrát, akár a nőket, \[⏎] a csúcsain kell megismerni, tanítja Füst Milán.
+- A vélemény hír, a szent szabad \[ – *néprajzi töredék (új gyűjtés)* – ] … 89
+	- Pár soros jegyzet arról, hogy a k-aanyázást valaki „tiszta hang”-nak titulálta.
 - Remény! … 89
-- Elég! … 90
-- Az első lépés … 90
+	- Olvasói levél és kommentárja. A levélben Szilágyi Ferenc ellopott aktatáskája kapcsán jellemzi a levél írója az *Új Magyarország* olvasóit, akik nem lopnak.
+- Elég! \[ – *kiss francia verzió* – ] … 90
+	- #NovákLászló 
+	- Pár soros jegyzet arról, hogy torkig van Dr. Novák Lászlóval, aki „a levelén felejtette a pecsét”.
+- Az első lépés \[ – *avagy Rolláék, az izlandi énekes meg a hazafiúi öröm* – ] … 90
+	- #RollaJános #LisztFerencKamarazenekar
+	- Fel van háborodva, amiért a LFKZ-től megvonták a támogatást, ezért arra kényszerülnek, hogy külföldön koncertezzenek. Az jut róla eszébe, hogy amikor egy izlandi énekes első izlandiként lépett fel a Metropolitanban, Izlandon támogatást adott a kormány, hogy izlandiak elutazhassanak meghallgatni.
 - Minden katona halandó … 91
-- A termelési operettek veszélye tárgyában … 91
-- Rövid, tavaszi tubo-sóhaj … 92
+	- Pár soros jegyzet arról, hogy a Duna TV-t érintő kormányutasításban milyen logikai *contradictió*kat találni.
+- A termelési operettek veszélye tárgyában \[ – *a gyöngyszem-ciklusból* – ] … 91
+	- #KeletiMárton
+	- Magyar Nemzetből hozott gyűjtés egy 1950-ben forgatott film *(Dalolva szép az élet)* méltatásáról, ilyen kifejezésekkel, hogy „Kiglancolt a derűje”, és hogy ez mennyire veszélyes politikailag.
+- Rövid, tavaszi tubo-sóhaj \[ *Pászló városának, mellesleg* ] … 92
+	- Pár soros jegyzet arról, hogy egyesek szerint az ózonlyukért a *Pinatubo,* e Fülöp-szigeteki vulkán a felelős. 
 - Ön téved … 92
+	- Egy rádióújság-részlet (1993. május 16.) pár soros kommentárja, mely részlet azt ecseteli, hogy az íróknak, költőknek a nemzet lelkiismeretévé kell válniuk.
 - Szűcsné … 92
 - Az Attila bemutatójához … 93
 - Augusztusi regénykészlet … 93
