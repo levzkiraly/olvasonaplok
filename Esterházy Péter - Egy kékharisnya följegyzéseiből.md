@@ -198,18 +198,18 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 	- Egy durva szóbeli bántás feldolgozása, miután a reptéren a táskája súrolta egy taxi lökhárítóját. „Mégse leszek cigány meg zsidó, elég ez így is.” (82.)
 - Talált tárgy, 1991 végén … 82
 	- Antirajongói levél, egy az egyben leközölve. Minden jellemzőjét felvonultatja annak, amikor valaki nincs tisztában azzal, mennyire hülye, és ezért a profinál is okosabbnak képzeli magát. Kiváló összeesküvéselmélet-elemek is találhatóak benne.
-	- 82. o.: ”Író„ Úr! \[⏎] Biztos *nem lesz merészsége* végigolvasni egy 7800 Ft jövedelmű diplomás ember sorait!
-	- 83. o.: A „földet vissza nem veszek” – című nagyvonalú kijelentései is kommunista urainak malmára akarja hajtani a vizet! \[…] Mentési akció ez, kedves uram! Igaz, fizetnek is érte, Önnek megéri. \[…] Én nem hiszem, hogy egy gondolkodó ember ne látná, hogy az úgynevezett „liberálisok” csak a köpönyeget fordították ki! – Ha pedig látja és szemet huny fölötte, sőt a *Gondolat-jel*-nek nyilatkozgat, akkor….…?– Minket is megtévesztettek, de mi éberen figyelünk, kombinálunk és félünk tőlük és Öntől is!!
+	- 82\. o.: ”Író„ Úr! \[⏎] Biztos *nem lesz merészsége* végigolvasni egy 7800 Ft jövedelmű diplomás ember sorait!
+	- 83\. o.: A „földet vissza nem veszek” – című nagyvonalú kijelentései is kommunista urainak malmára akarja hajtani a vizet! \[…] Mentési akció ez, kedves uram! Igaz, fizetnek is érte, Önnek megéri. \[…] Én nem hiszem, hogy egy gondolkodó ember ne látná, hogy az úgynevezett „liberálisok” csak a köpönyeget fordították ki! – Ha pedig látja és szemet huny fölötte, sőt a *Gondolat-jel*-nek nyilatkozgat, akkor….…?– Minket is megtévesztettek, de mi éberen figyelünk, kombinálunk és félünk tőlük és Öntől is!!
 - Gerincpornó … 83
 	- Pár soros jegyzet arról, hogy egy katona szájából egy költő idézi egy lapban, amint az felszólítja a vendégeket, *különösen a nőket,* hogy szüljenek minél több gyereket.
 - Az örök magyar vágy \[ – *néprajzi töredék (új gyűjtés)* – ] … 84
 	- Pár soros jegyzet egy igazán bájos nyelvbotlásról.
-	- 84. o.: „Szeretném végre otthon érezni magam, legalább itt, a szűkebb pátriárkámban!”
+	- 84\. o.: „Szeretném végre otthon érezni magam, legalább itt, a szűkebb pátriárkámban!”
 - Hahn-Hahn gróf pillantása … 84
 	- #VladimirMečiar
 	- Pár soros jegyzet a szlovák miniszterelnök, Vladimir Mečiar megjegyzéséről, miszerint nem a Dunát terelték el, hanem a hajózást.
 	- Jegyzet magamnak: a cím utalás saját regényére, a *Hahn-Hahn grófnő pillantása* címűre.
-	- 84. o.: Egy gyöngyszem a Dunából, e jelentős szlovák tóból.
+	- 84\. o.: Egy gyöngyszem a Dunából, e jelentős szlovák tóból.
 - Szahar … 84
 	- A meghívólevelek megalázó nyűgéről saját emlékei alapján, és arról, hogy egy kortárs kolozsvári írónőnek magyar meghívólevél kell, hogy EP átölelhesse, és még a határon se kelljen a szükséges előírt pénzmennyiséget bemutatnia.
 - Hogyan alázzuk meg a Kolozsvári Magyar Színházat … 85
@@ -226,17 +226,18 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 - Marha … 87
 	- #KonrádGyörgy #CsoóriSándor #SütőAndrás #NádasPéter #ErkelFerenc #JanisJoplin
 	- Pár soros jegyzet arról, hogy Szerzőt a legnagyobb magyar írók közt méltatja egy újság.
-	- 87. o.: Hát ez marha jó! (Zene: mint rendesen, Erkel: Hunyadi, illetve Janis Joplin ördögi kacaja a Mercedes Benz végéről.)
+	- 87\. o.: Hát ez marha jó! (Zene: mint rendesen, Erkel: Hunyadi, illetve Janis Joplin ördögi kacaja a Mercedes Benz végéről.) \[[moly.hu](https://moly.hu/idezetek/2042925) (saját)]
 - Hogyan nyomódik meg egy gomb? \[ – *költő-képviselő monológja malőr után* – ] … 88
 	- #ThürmerGyula #KonrádGyörgy #HarasztiMiklós #MarosánGyörgy
 	- Karinthys szösszenet egy szavazógomb felelőtlen megnyomásáról, melyben a költő a szonettírásra fogja a hibát. József Attila, Romhányi-idézetek stb.
-	- 88. o.: … puff neki, a rímre megbillent a könyököm, igen, én most befogom pörös számat, györgy sorost, elnézést, négysorost kellett volna írnom…
+	- 88\. o.: … puff neki, a rímre megbillent a könyököm, igen, én most befogom pörös számat, györgy sorost, elnézést, négysorost kellett volna írnom…
 - Csurkázás, Tamás-Gáspározás … 88
 	- #CsurkaIstván #TamásGáspárMiklós #KazinczyFerenc #FüstMilán0
-	- 88. o.: Ősmagyar szók, a besenyő lófők hozták be Izraelből, Kazinczy engedélyével.
+	- Eme nevek igésítéséről.
+	- 88\. o.: Ősmagyar szók, a besenyő lófők hozták be Izraelből, Kazinczy engedélyével.
 	- 88–89. o.: Nota bene, a kultúrát, akár a nőket, \[⏎] a csúcsain kell megismerni, tanítja Füst Milán.
 - A vélemény hír, a szent szabad \[ – *néprajzi töredék (új gyűjtés)* – ] … 89
-	- Pár soros jegyzet arról, hogy a k-aanyázást valaki „tiszta hang”-nak titulálta.
+	- Pár soros jegyzet arról, hogy a k-aanyázást valaki a buszon „tiszta hang”-nak titulálta.
 - Remény! … 89
 	- Olvasói levél és kommentárja. A levélben Szilágyi Ferenc ellopott aktatáskája kapcsán jellemzi a levél írója az *Új Magyarország* olvasóit, akik nem lopnak.
 - Elég! \[ – *kiss francia verzió* – ] … 90
@@ -254,25 +255,60 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 	- Pár soros jegyzet arról, hogy egyesek szerint az ózonlyukért a *Pinatubo,* e Fülöp-szigeteki vulkán a felelős. 
 - Ön téved … 92
 	- Egy rádióújság-részlet (1993. május 16.) pár soros kommentárja, mely részlet azt ecseteli, hogy az íróknak, költőknek a nemzet lelkiismeretévé kell válniuk.
-- Szűcsné … 92
+- Szűcsné \[ *O. I.-nek* ] … 92
+	- #KernAndrás
+	- A telefonos téves hívásokról. Legutóbbi élménye, hogy „Szűcsnét” keresték „szovjet relációban”. Felvilágosította a hívó felet, hogy az a reláció már nem aktuális.
 - Az Attila bemutatójához … 93
-- Augusztusi regénykészlet … 93
-- Hüm-hüm, avagy Für Lajos védelmében … 93
-- Európai viszonyok … 94
-- Vagy … 94
+	- Idézem teljes terjedelmében.
+	- 93\. o.: Az *István, a király*nak annyi köze van a hazafiúsághoz, mint a *Jézus Krisztus Szupersztár*nak a kereszténységhez. De ez nem baj.
+- Augusztusi regénykészlet \[ – *a belterj-ciklusból* – ] … 93
+	- Képzeletbeli (?) levél a szomszédnak (Esthajnal Péter nevében), hogy vissza fogja baszni az áthajigált gallyakat.
+- Hüm-hüm, avagy Für Lajos védelmében \[ – *a Kis komcsizás-ciklusból* – ] … 93
+	- #PozsgayImre #FürLajos
+	- Kommentálja azt a Pozsgay-beszólást, hogy „jobb az igazságot eltűrni, mint a gyalázatot.”
+- Európai viszonyok \[ – *a Gyöngyöt a disznóknak-ciklusból* – ] … 94
+	- Főnöki levél 1993. augusztus 19-ei keltezéssel arról, hogy ha a szobájában továbbra is rendetlenséget hagy a takarítókra, a kirúgást helyezik kilátásba.
+- Vagy \[ – *a Ha a hülyeség fájna-ciklusból* – ] … 94
+	- #GothárPéter 
+	- Gothár megfogalmazását („ne bízz olyan lufiban, melyet nem magad fújtál fel”) kritizálja a Magyar Nemzet, ezt kommentálja ő.
 - Örkény Istvánnak, avagy a történelem kereke … 95
+	- #ÖrkényIstván #VáradySzabolcs
+	- Pár soros jegyzet arról, hogy visszakapta Jugoszlávia-térképét akkor, amikor az az ország már nem is létezett.
 - Közszolgálati glosszák … 95
-- Rekviem … 95
-- Mondolat és Matuska Szilveszter … 96
-- Fölhívás és maszlag … 96
-- Vérdíj és szociális segély … 96
-- Élpöcs … 97
+	- #LengyelLászló #WolfgangAmadeusMozart #OcskayLászló #MatuskaSzilveszter #NahlikGábor #ChrudinákAlajos #KocsisLMihály #KóthyJudit #SiposPál
+	- A közszolgálati tahóság megörökítéséül új rovatot nyit. Alcímek jönnek igaz történetekkel.
+	- Rekviem … 95
+		- A „kis zenei főnök” szerint az aradi vértanúk napján nem szólhat Mozart Rekviemje, mert osztrák zeneszerző.
+	- Mondolat és Matuska Szilveszter … 96
+		- Felteszi a kérdést: miért a nyelvújítást gúnyoló irat nevét adták a tévé új nyelvi műsorának, és miért este tízkor sugározzák…
+	- Fölhívás és maszlag … 96
+		- Felhúzza magát azon, hogy bejelentik: az '57-es *Csak nézünk…* c. sorozatot azért nem játsszák, hogy ne sértsék az '56-ban érintettek gyászát.
+	- Vérdíj és szociális segély … 96
+		- Arról, hogy van két külsős tévés, akit ha rajtakap a rendész, hogy bejön a tévé épületébe, jutalmat kap – EP szerint ezt karitatív céllal fel lehetne használni a szegény, de szimpatikus rendészek megsegítésére.
+	- Élpöcs … 97
+		- Miután a címben idézett kifejezés (illetve szinonimája, a csúcsfasz) kapcsán megemlékezik apjáról, és elhatározza, hogy a nevét nem csúfítja be a tévés vita kapcsán ilyen szavak hozzákötésével, észreveszi, hogy az említett két külsőst (a *Csak nézünk…* sorozatszerkesztőjét és szerkesztő-riporterét) a két tévéújság közül az „igazi” meg sem említi őket.
+			- Kinyomoztam: a *Csak nézünk, mint a moziban (az 50-es évek mozija)* c. sorozatot Kóthy Judit és Sipos Pál szerkesztette.
 - Feladat: három mondat Európáról … 97
+	- Pár soros jegyzet arról, hogy Európa az Európára való emlékezés, mint az árnyék árnyéka.
 ## A senki földjén … 
 - A megnyerhetetlen élet … 101
+	- #PuskásÖcsi #RákosiMátyás 
+	- Kritizálja a mondást, hogy „mint csöppben a tenger, a sportban az ország”. Az Aranycsapat sziget volt, de a strandokon „úgy fociznak, amilyen az országklisé.”
+	- Kritizálja a mondást, hogy „győzzön a jobbik”. A jó nem győzni akar, hanem lenni, de ez a sportban nem használható. Örül, hogy nem úgy él, ahogy játszott volt. Elemzi a lelkét, hogy mennyire volt szabálytisztelő focista. Anekdota a kézzel bepöckölt gólról („a szakvezetés megtiltotta, hogy nyilatkozzam”, 102. o.).
+	- Arról, hogy az életben a szabályokat nem lehet kritizálni anélkül, hogy először is magara ne alkalmaznád őket. 
+	- 103\. o.: Alkalmazkodni kell, hogy lehess. Hogy te te lehess. De az alkalmazkodás önfeladás is egyben. Túl kell élni, de nekem kell túlélni. Vannak tehát határok. És ki mondja meg, hol vannak ezek? Nehéz ez. \[[moly.hu](https://moly.hu/idezetek/788766)]
+	- A futball nem verseny, hanem játék. Megismerni a tengerben a tengert, s elveszni benne.
 - Az én olimpiám … 104
-- Mindent bele … 106
-- A senki földjén … 110
+	-  #PappLászló #PuskásÖcsi #EgerszegiKrisztina #BibóIstván #BalczóAndrás #WeöresSándor #SzepesiGyörgy #VitrayTamás #SzergejBubka #BagyulaIstván
+	- Nem rajong az olimpáért, mert nem érzi, hogy volna szelleme, csak az élsportot érzi, de a tévében nézi. Közben elmereng arról, hogy mit jelent magyarnak lenni, majd belegondol, hogy más nemzeteknek is vannak, és azoknak is vannak fiai, leányai.
+	- 104\. o.: Egyébként sem vagyok megrögzött olimpiás, csak kortyonként, minthogy én focira vagyok kalkulálva, az meg az olimpián alig rúg labdába. \[[moly.hu](https://moly.hu/idezetek/1638442)]
+	- 104\. o.: Magyarnak lenni, az ilyen apróságok szövete, egy szó, Egér, honderű, egy tárgy, a Bibó írógépe, egy kép, a Balczó válláról le-lecsúszó rajtszám-madzag, egy hang, a Weöres Sándoré vagy a Szepesivitrayé… \[[moly.hu](https://moly.hu/idezetek/2042926) (saját)]
+- Mindent bele \[ *Németh Gyula emlékének* ] … 106
+	- #NémethGyula #PisontIstván #CsankJános #TichyLajos #MezeyGyörgy #VerebesJózsef #TelekAndrás #LipcseiPéter #AlbertFlórián #TörőcsikAndrás
+	- Karácsonykor ír a sportról, sőt: a fociról. Arról, hogy nemrég felállt a tévé elől, annyira nem szórakoztatta a meccs. Méltatja a negatív csúcsot a hazai fociban, és próbálja összekötni a magyar furballhagyománnyal.
+	- 107–108. o.: … azt hiszem, hogy most tényleg a maximális minimum\[108.]nál tartunk. Ennél lejjebb, ezt alulmúlni talán már tényleg nem lehet.
+	- 108–109. o.: A futball csapatjáték. De magunkra vagyunk hagyatva. Senkire nem lehet számítani, csak magunkra. Megszoktuk, hogy a fejünk fölött döntsenek, egyáltalán, hogy van valami „fönt”, ahol a komoly \[109.] dolgok eldőlnek. Nincs, kérem, ilyen fönt, s szembe kell nézni avval a koronként nevetséges ténnyel, hogy e komoly dolgok mi vagyunk, mi magunk dőlünk el. Ez a helyzet, ez a szabadság tétje.
+- A senki földjén \[ – *kis karácsonyi vidám* – ] … 110
 ## Az anyag dicsérete … 
 - Schulz: Az anyag dicsérete … 115
 - Cela: Európa ostorozása … 117
