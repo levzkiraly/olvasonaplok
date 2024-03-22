@@ -1,32 +1,32 @@
 oldal;könyv;locus;verzió;idézet-e;megjegyzés
-12;2Kor;10, 5;Message;IGAZ;mottó
-21;5Móz;30, 19;NLT;IGAZ;halál ~ mérgező gondolatok, élet ~ méregtelenítés
-22;Ézs;7, 15;;HAMIS;a döntés a mi kezünkben van
-23;Fil;4, 8;NLT;IGAZ;pozitív gondolkodás
-24;Péld;23, 7;Young;IGAZ;„amit gondolunk, azzá leszünk”
-30;Hós;4, 6;;IGAZ;a pozitív gondolkodás tudás és megértés révén érhető el
-49;Ef;4, 31;Amp;IGAZ;mérgező gondolatok
-50;Péld;19, 2;Young;IGAZ;a pozitív gondolkodás tudás és megértés révén érhető el
-57;Mt;6, 25;;HAMIS;aggódás helyett nyugalom
-63;Péld;4, 5;;HAMIS;az elmélkedés. (Péld 16, 16 is)
-65;2Kor;10, 5;;IGAZ;minden gondolatot foglyul ejteni
-65;Róm;12, 2;;IGAZ;az elme megújulása
+129;1Kor;13;;HAMIS;a szeretet bibliai leírása
+130;1Kor;13;;HAMIS;a szeretet bibliai leírása
 66;1Móz;11, 6;Amp;IGAZ;amit elképzelsz, az lehetséges – a neuroplaszticitásra értve
-66;Zsid;11, 1;NIV;IGAZ;a hit: egy eseménysor képzeletbeli végrehajtása
-67;Fil;4, 8;;HAMIS;helyes információ, amivel a mérgező gondolatok helyettesíthetőek
-76;Róm;12, 2;;HAMIS;"az elme megújulása: neuroplaszticitás; „mi magunk elvégezzük Isten kegyelmének és bölcsességének a segítségével”"
-77;Mt;6, 25;;HAMIS;példa arra, hogy az áttekintés fázisában segít a Biblia pl. az aggódás felismerésében
-79;Jak;2, 20;;IGAZ;a hit cselekedetek nélkül halott = az elmélet alkalmazás nélkül halott (hit ~ elmélet?)
-80;Róm;10, 9-10;;IGAZ;az alkalmazás közben az érzelmeink jelzik, hogy valami igaz vagy nem = hitvallás Jézusról
-81;Péld;23, 7;;IGAZ;a gondolkodás meghatározza a gének aktiválódását → epigenetika
-86;Róm;12, 2;;HAMIS;neuroplasztikai újraírás
-86;Zsolt;51, 6;;HAMIS;legyünk őszinték
+119;1Pt;5, 7;;HAMIS;a megbocsátáshoz el kell engednünk a fájdalmainkból táplálkozó negatív érzelmeket
+12;2Kor;10, 5;Message;IGAZ;mottó
+65;2Kor;10, 5;;IGAZ;minden gondolatot foglyul ejteni
+21;5Móz;30, 19;NLT;IGAZ;halál ~ mérgező gondolatok, élet ~ méregtelenítés
+49;Ef;4, 31;Amp;IGAZ;mérgező gondolatok
+22;Ézs;7, 15;;HAMIS;a döntés a mi kezünkben van
 87;Fil;3, 13;;HAMIS;nem vagyunk a múltunkhoz vagy a jelenünkhöz kötve
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
+23;Fil;4, 8;NLT;IGAZ;pozitív gondolkodás
+67;Fil;4, 8;;HAMIS;helyes információ, amivel a mérgező gondolatok helyettesíthetőek
+30;Hós;4, 6;;IGAZ;a pozitív gondolkodás tudás és megértés révén érhető el
+79;Jak;2, 20;;IGAZ;a hit cselekedetek nélkül halott = az elmélet alkalmazás nélkül halott (hit ~ elmélet?)
+57;Mt;6, 25;;HAMIS;aggódás helyett nyugalom
+77;Mt;6, 25;;HAMIS;példa arra, hogy az áttekintés fázisában segít a Biblia pl. az aggódás felismerésében
+92;Mt;6, 25;;HAMIS;az aggódás ellen a „ne aggódj” Igék megvallásával lehet küzdeni
+102;Péld;18, 21;;HAMIS;mi döntjük el, hogy mérgező vagy gyümölcsöző szavakat használunk
+50;Péld;19, 2;Young;IGAZ;a pozitív gondolkodás tudás és megértés révén érhető el
+24;Péld;23, 7;Young;IGAZ;„amit gondolunk, azzá leszünk”
+81;Péld;23, 7;;IGAZ;a gondolkodás meghatározza a gének aktiválódását → epigenetika
+63;Péld;4, 5;;HAMIS;az elmélkedés. (Péld 16, 16 is)
+80;Róm;10, 9-10;;IGAZ;az alkalmazás közben az érzelmeink jelzik, hogy valami igaz vagy nem = hitvallás Jézusról
+65;Róm;12, 2;;IGAZ;az elme megújulása
+76;Róm;12, 2;;HAMIS;"az elme megújulása: neuroplaszticitás; „mi magunk elvégezzük Isten kegyelmének és bölcsességének a segítségével”"
+86;Róm;12, 2;;HAMIS;neuroplasztikai újraírás
+66;Zsid;11, 1;NIV;IGAZ;a hit: egy eseménysor képzeletbeli végrehajtása
+86;Zsolt;51, 6;;HAMIS;legyünk őszinték
 ;;;;;
 Üres oldalak aránya;;;;;
 Fejezet;hossz;felkerekítve;üres oldalak;lekerekítve;
