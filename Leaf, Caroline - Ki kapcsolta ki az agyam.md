@@ -48,9 +48,9 @@ Említsük meg néhány legfontosabb forrását:
 
 Ez utóbbit elnézve méltán kételkedhetünk a tudományosságában, de (nem ismerve Lipton konkrét állításait, csak könyve borítóját (marketingjét), és ez alapján remélve, hogy nem megy messzebbre a tudománytól mondjuk Rupert Sheldrake-nél) egyelőre fogadjuk el ezt; látni fogjuk, hogy azon a szinten, amelyen a neurológiáról beszél, igazából ez nem is számít. Rejtett marketing ez a „kemény mag” számára, azoknak, akik még a végjegyzetekbe is belekukkantanak. Mindenképpen dicséretre méltó azonban a könyv végén szereplő 366 tételes ajánlott bibliográfia, bár semmi mást nem tartalmaz, csak a hivatkozásokat – internetcímek esetén olykor csak az url-t és semmi mást. Így aki ezt fel szeretné dolgozni, az elég száraz melónak néz elébe. Tematikus bontás vagy rövid annotáció sokat segített volna.
 
-A szerző önmagára is sokat hivatkozik, ebből említésre méltó a „Mind Mapping: A therapeutic technique for closed head injury” című MA szakdolgozata (Univ. of Pretoria, 1990) és a „The Mind Mapping Approach: A Model and Framework for Geodesic Learning” című (kiadatlan) PhD disszertációja (Univ. of Pretoria, 1997), XXX Metacog™ (75. o.)?
+A szerző önmagára is sokat hivatkozik, ebből említésre méltó a „Mind Mapping: A therapeutic technique for closed head injury” című MA szakdolgozata (Univ. of Pretoria, 1990) és a „The Mind Mapping Approach: A Model and Framework for Geodesic Learning” című (kiadatlan) PhD disszertációja (Univ. of Pretoria, 1997), a *Switch On Your Brain: 5 Step Learning Process* (Dallas, TX, 2008) c. self-help könyve, mely az ötlépéses önsegítés módszerét tartalmazza (ld. 49. o.), illetve a Metacog™ nevű terapeutikus módszere (72., ill. Függelék), melyet tanulási nehézségekkel küzdő diákok segítésére dolgozott ki.
 
-Mentális modellje egyszerű. Központi fogalma a „mérgező gondolat”, mely onnan ismerhető fel, hogy ezek „negatív és aggódó érzelmeket váltanak ki.” (19. o.) Ezeknek a gondolatoknak a „közvetlen következménye a stressz” (29. o.), mely hosszú távon rossz közérzethez és teljesítményvesztéshez vezet („depresszió, fóbiák, … zavartság, … feledékenység” stb. – 34. o.). Ezek a mérgező gondolatok „mérgező érzelmekhez” kapcsolódnak, de a „kisöprésük” megszabadít emezektől is. Ezt a „kisöprést” módszeresen az élet tizenkét területére bontva mutatja be, a „piszkos tizenkettőn” (ennek az elnevezésen kívül semmi köze E. M. Nathanson azonos című regényéhez, vagy a belőle készült filmhez). Bemutatja „a méreg útját”, amennyiben az ideiglenes stressz nem múlik (2. fázis), vagy krónikussá válik (3. fázis). A kapcsolat kimutatható a gondolkodás, illetve a szív, az immunrendszer és az emésztőrendszer között.
+A könyv modellje egyszerű. Központi fogalma a „mérgező gondolat” – ezek onnan ismerhetőek fel, hogy „negatív és aggódó érzelmeket váltanak ki.” (19. o.) Ezeknek a gondolatoknak a „közvetlen következménye a stressz” (29. o.), mely hosszú távon rossz közérzethez és teljesítményvesztéshez vezet („depresszió, fóbiák, … zavartság, … feledékenység” stb. – 34. o.). Ezek a mérgező gondolatok „mérgező érzelmekhez” kapcsolódnak, de a „kisöprésük” megszabadít emezektől is. Ezt a „kisöprést” módszeresen az élet tizenkét területére bontva mutatja be, a „piszkos tizenkettőn” (ennek az elnevezésen kívül semmi köze E. M. Nathanson azonos című regényéhez, vagy a belőle készült filmhez). Bemutatja „a méreg útját”, amennyiben az ideiglenes stressz nem múlik (2. fázis), vagy krónikussá válik (3. fázis). A kapcsolat kimutatható a gondolkodás, illetve a szív, az immunrendszer és az emésztőrendszer között.
 
 Megpróbál „bemutatni egy komplex tudományos folyamatot a hétköznapi ember számára is érthető formában”, hogy méregteleníteni tudjuk a gondolkodásunkat.
 
@@ -70,25 +70,25 @@ Maga a technika pedig minden területen azt jelenti, hogy
 4. Az „ismétlés” alatt, hogy tervezzük meg a cél megvalósítását.
 5. Az „alkalmazás” alatt, hogy kezdjük el csinálni azt, amit kitaláltunk.
 
-Mindenekelőtt le kell szögezni, hogy a tizenkét téma ilyen aprólékos vizsgálgatása neurológiai szaktudás nélkül is alaposabb önismeretre vezet, mint amilyen az embernek a maga naiv, spontán „élése” során kialakul. A listák végigolvasásának, a gyakorlatok elvégzésének tehát van értelme, sokan bizonyára találnak benne olyan pontokat, amik eddig elkerülték a figyelmüket, talán pont azért, mert szorongások vakfoltja takarta el őket a tudatos önreflexió elől. Erre a könyv alkalmas lehet.
+Mindenekelőtt le kell szögezni, hogy a tizenkét terület ilyen aprólékos vizsgálgatása neurológiai alapozás nélkül is spontán fejleszti az önismeret. A listák végigolvasásának, a gyakorlatok elvégzésének tehát van értelme, sokan bizonyára találnak benne olyan pontokat, amik eddig elkerülték a figyelmüket, talán pont azért, mert szorongások vakfoltja takarta el őket a tudatos önreflexió elől. Erre a könyv alkalmas lehet.
 
-Ami bosszantó és lehangoló, az az, mennyire homályosan adja elő a gyakorlatot megalapozó elméletet. Az agyműködés leírásai képszerűtlenek, a mellékelt ábrák egyszerűen nem segítenek az olvasottak elképzelésében. Az alkalmazott képei pedig a levegőben lógnak, funkciótlan részletekkel dolgozik (pl. miért érdekes, hogy az emlékezet sejtjei fa-alakúak?). „Rossz tankönyv” hangulatú az egész, ami arról győzi meg az olvasót, hogy ezt nem értheti meg.
+De bosszantó és lehangoló, hogy mennyire homályosan adja elő a gyakorlatot megalapozó elméletet. Az agyműködés leírásai képszerűtlenek, a mellékelt ábrák – eredetileg alighanem színes grafikák, a könyvben fekete-fehérben reprodukálva – sehol nem segítenek az olvasottak elképzelésében. Az alkalmazott képei pedig a levegőben lógnak, funkciótlan részletekkel dolgozik (pl. miért érdekes, hogy az emlékezet sejtjei fa-alakúak?). „Rossz tankönyv” hangulatú az egész, ami arról győzi meg az olvasót, hogy ezt úgysem értheti meg.
 
-Ködös megfogalmazásának illusztrálásához elég csak összehasonlítani a fenti öt lépés elméleti leírását azzal, amit a gyakorlati kérdésekből szűrtem le. Ha csak az elméleti leírást láttam volna, halványlila gőzöm nem lett volna, hogy mire gondol konkrétan. Az egy dolog, hogy nagyon egyszerű nyelvezettel próbál kommunikálni, és az egy másik, hogy ki tudja-e fejezni magát. A könyvnek ez utóbbiban van komoly hiányossága (pl. „mérgező magvak”?? lehetett volna mérgező bánásmód, gesztusok, hozzáállás, annyi minden).
+Ködös megfogalmazásának illusztrálásához elég csak összehasonlítani a fenti öt lépés elméleti leírását azzal, amit a gyakorlati kérdésekből szűrtem le. Az elméleti leírásból talán soha nem értettem volna meg, hogy mire gondol konkrétan. Nagyon egyszerű nyelvezettel próbál kommunikálni, de nem tudja rajta érthetően kifejezni magát, így a szöveg kellemetlenül leereszkedő hatású. Nehéz eldönteni, hogy a fordítónek mekkora szerepe van ebben, de az olyan kifejezések, mint pl. a „mérgező magvak”, az eredeti gyengeségére utalnak (lehetett volna mérgező bánásmód, gesztusok, hozzáállás, annyi minden).
 
 Persze, nem kerülhetjük ki, hogy elismerjük: fontos igazságok is elhangzanak a könyvben, például Viktor Frankl híres gondolata:
 
 > [!cite] 77\. o.
 > … jóllehet nem tudjuk mindig befolyásolni a körülményeinket, arra mindig van lehetőségünk, hogy megváltoztassuk a körülményekre adott reakciónkat.
 
-Aki ezekkel még nem volt tisztában, az – kissé ömlesztve, strukturálatlanul ugyan, de – kap egy rakás ilyet is. Ebben is lehet jó.
+Az a laikus, aki ezzel még nem volt tisztában, az – kissé ömlesztve, strukturálatlanul ugyan, de – kap ilyet is. Ebben is lehet jó.
 
-Számomra azonban nyomasztó volt, hogy még a neurológiai ismeretterjesztést is egy termékbemutató színvonalán kommunikálja:
+Számomra azonban nyomasztó a semmitmondó nagy szavak használata: „a test és az agy egészen új dimenziójába kerülünk.” (22. o.) Még a neurológiai ismeretterjesztést is egy MLM-es termékbemutató stílusában kommunikálja:
 
 > [!cite] 37\. o.
 > A kutatási eredmények azt mutatják, hogy a félelem több mint 1400 ismert fizikai és kémiai reakciót generál. Ezek a reakciók összesen több mint 30 különböző hormont és ingerületátvivő anyagot aktiválnak, melynek hatására a test „bolondokháza” lesz.
 
-Mágikus számok, csupa „több mint”, az elvárt hatás pedig, hogy a közönség felnyögjön: váó! Sajnos azonban ez a fajta „ismeretterjesztés” teljesen funkciótlan: nem derül ki pl., hogy miért releváns, hogy ilyen sok reakcióról vagy ilyen sok hormonról beszélünk. Ennyi erővel a dihidrogén-oxid rejtélyes tulajdonságait is sorolhatná, annak is ennyi haszna lenne a tárgyalásban – semennyi. Értem én, kérem, hogy ezt ő nem marketinges csapdának, időhúzásnak vagy fárasztásnak szánja, hogy aztán ne tudjunk már kritikusan gondolkodni, amikor bejelenti a termék árát, mert végül ilyet nem tesz. De ez akkor is egy rossz kommunikációs beidegződés. Aki nem reflektál erre, annak ködösítés, aki meg hozzám hasonlóan igen, annak fárasztó és idegesítő.
+A lenyűgözés ilyen eszközei „ismeretterjesztés” gyanánt teljesen funkciótlanok: nem derül ki pl., hogy miért releváns, hogy ilyen sok reakcióról vagy ilyen sok hormonról beszélünk. Ez egy rossz kommunikációs beidegződés. Aki ezt olvasás közben nem tudatosítja, annak ködösítés, aki meg hozzám hasonlóan igen, annak fárasztó és idegesítő.
 
 Ilyen lehangolóak a nagy, színes betűkkel kiemelt, jelszószerű reklámmottók is szerte a könyvben. Csak ízelítőül néhány:
 
@@ -96,10 +96,27 @@ Ilyen lehangolóak a nagy, színes betűkkel kiemelt, jelszószerű reklámmott�
 - "Az idegtudomány is segít, hogy élvezhessük napjainkat." 63. o.
 - "Nem létezik veszélytelen gondolat, úgyhogy jobb lesz, ha elkezdünk jó gazdaként bánni gondolatainkkal és érzelmeinkkel." 67. o.
 
-Összességében tehát egy gyakorlati szempontból potenciálisan használható, ám elméleti szempontból informatívnak szánt, de lapos, zagyva és szerencsétlen megfogalmazású írással van dolgunk. Ha ezt nézem, a könyvet esetleg-esetleg javasolhatom olyannak, aki szeretne általánosságban javítani a szorongásai és a stressztényezői kezelésén, de akkor is azt tenném hozzá, hogy ha talál másik hasonló témájú könyvet, akkor azt olvassa inkább.
+Összességében tehát egy gyakorlati szempontból potenciálisan használható, ám elméleti szempontból informatívnak szánt, de lapos, zagyva és szerencsétlen megfogalmazású írással van dolgunk. Ha ezt nézem, a könyvet talán esetleg javasolhatom olyannak, aki szeretne általánosságban javítani a szorongásai és a stressztényezői kezelésén, de akkor is azt tenném hozzá, hogy ha talál másik hasonló témájú könyvet, akkor azt olvassa inkább.
 # Mint bibliaértelmezés és teológia
-...
+Noha a könyv látszólag a szorongások neurológiailag megalapozott oldásáról szól, kifejtésének az alaprétegét bibliai idézetek alkotják. Egyházra vagy hasonló szervezetre nem hivatkozik, így fogalmi hátterének feltárása érdekében a bibliaértelmezését vizsgáljuk.
+
+Lélektani módszerének célját fejezi ki a könyv élén álló mottó, a 2Kor 10, 5 (a Message „fordítás” változatában): 
+
+> [!cite] 12\. o.
+> Használjuk Istentől kapott erős fegyvereinket eltorzult elméletek szétzúzására, az Isten igazsága ismerete ellen emelt korlátok ledöntésére, és arra, hogy minden kilazult gondolatot, érzelmet és impulzust beillesszünk a krisztusi élet rendszerébe.
+
+Ezt az idézetet azonban nem magyarázza meg, így nem világos, hogy ezeket a metaforákat („fegyver”, „eltorzult”, „kilazult”) mire kell pontosan érteni, hogyan köthetőek össze a kifejtett módszerrel. Nem derül ki, hogy mit tart a „krisztusi élet rendszeré”-nek, vagy hogy a „mérgező gondolatokat” szétzúzni és ledönteni akarja, vagy beilleszteni.
+
+Az, hogy homályban hagyja az olvasót, mutatja, hogy ezeknek az idézeteknek nincs más funkciója, mint a tekintélyelvűség. Az olvasót abba a székbe ülteti, ahol a Bibliát nem érteni kell, hanem elfogadni – és mivel a Biblia a többféle fordítás használatával érzékeltetett akkurátusság látszata ellenére megmagyarázatlan marad, ezért ez az elfogadás valójában egy meghatározatlan tekintélynek nyitja meg a helyet, mely a gyakorlatban egy egyházi közösség formájában jelenik meg.
+
+Ennek a homálynak viszont van egy másik oldala is. Az 5Mózes 30, 19 rövid kommentárjából (21. o.) az derül ki, hogy „élet” és „halál” alatt a szerző a fizikai egészséget és a betegséget, halált érti. Ezt tükrözi az is, hogy a pozitív gondolkodás bibliai hivatkozásait (Filippi 4, 8 \[23.]) pusztán az endorfin és a szerotonin felszabadítására alkalmazza, tehát számára a bibliai cél maga a „méregtelenítés”. A Biblia számára nem az örök életre, hanem az egészséges életre vezető könyv.
+
+
+
 # A könyv külalakjáról
+Tipográfia
+- első sor behúzása helyett térközzel jelöli a bekezdéseket -> túl szellőssé válik
+- jobb margó rongyos -> weblapszerű, unprofesszionális
 Színek
 - szürke flekkek, pl. cím
 - szürkével szedték a teljes jegyzet- és bibliográfia-szekciót

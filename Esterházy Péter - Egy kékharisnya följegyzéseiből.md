@@ -305,7 +305,7 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 	- 104\. o.: Magyarnak lenni, az ilyen apróságok szövete, egy szó, Egér, honderű, egy tárgy, a Bibó írógépe, egy kép, a Balczó válláról le-lecsúszó rajtszám-madzag, egy hang, a Weöres Sándoré vagy a Szepesivitrayé… \[[moly.hu](https://moly.hu/idezetek/2042926) (saját)]
 - Mindent bele \[ *Németh Gyula emlékének* ] … 106
 	- #NémethGyula #PisontIstván #CsankJános #TichyLajos #MezeyGyörgy #VerebesJózsef #TelekAndrás #LipcseiPéter #AlbertFlórián #TörőcsikAndrás
-	- Karácsonykor ír a sportról, sőt: a fociról. Arról, hogy nemrég felállt a tévé elől, annyira nem szórakoztatta a meccs. Méltatja a negatív csúcsot a hazai fociban, és próbálja összekötni a magyar furballhagyománnyal.
+	- Karácsonykor ír a sportról, sőt: a fociról. Arról, hogy nemrég felállt a tévé elől, annyira nem szórakoztatta a meccs. Méltatja a negatív csúcsot a hazai fociban, és próbálja összekötni a magyar futballhagyománnyal.
 	- 107–108. o.: … azt hiszem, hogy most tényleg a maximális minimum\[108.]nál tartunk. Ennél lejjebb, ezt alulmúlni talán már tényleg nem lehet.
 	- 108–109. o.: A futball csapatjáték. De magunkra vagyunk hagyatva. Senkire nem lehet számítani, csak magunkra. Megszoktuk, hogy a fejünk fölött döntsenek, egyáltalán, hogy van valami „fönt”, ahol a komoly \[109.] dolgok eldőlnek. Nincs, kérem, ilyen fönt, s szembe kell nézni avval a koronként nevetséges ténnyel, hogy e komoly dolgok mi vagyunk, mi magunk dőlünk el. Ez a helyzet, ez a szabadság tétje.
 - A senki földjén \[ – *kis karácsonyi vidám* – ] … 110
