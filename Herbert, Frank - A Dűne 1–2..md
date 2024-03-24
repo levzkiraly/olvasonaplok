@@ -17,9 +17,9 @@ translator: Békés András
 3. 35. o. #LadyJessica #GaiusHelenMohiam #PaulAtreides A Tisztelendő Anya beszél Lady Jessicának a sorsáról, majd Paul elmeséli neki álmát egy lányról.
 4. 44. o. #ThufirHawat #PaulAtreides #GurneyHalleck Thufir Hawat és Paul beszélgetnek Arrakisról, majd Gurney megjön, énekel, és fegyverismeretet tanít Paulnak.
 	- … az uralkodónak meg kell tanulnia \[50] kényszerítés helyett meggyőzni. Neki kell a legtöbbet adnia, hogy a legtöbbet kapja, hogy a legjobbak álljanak melléje. 49–50. o.
-5. 60. o.
-6. 66. o.
-7. 74. o.
+5. 60. o. #PaulAtreides #YuehWellington Yueh tanulnivalót ad Paulnak az arrakisi útra, és ajándékoz neki egy Orániai Katolikus Bibliát.
+6. 66. o. #PaulAtreides #LetoAtreides Leto beszélget Paullal arról, hogy az Arrakis csapda, de a fremenek segítségével a saját hasznukra fordíthatják, valamint közli vele, hogy megvan Paulban a Mentát-képesség, Paul pedig vállalja, hogy folytatja a Mentát-képzést.
+7. 74. o. #LadyJessica #LetoAtreides #ShadoutMapes Lady Jessica kezd kicsomagolni az arrakeeni palotában. Leto beszélget vele a berendezkedésről és a fremenekről. Bemutatkozik Shadout Mapes, és ad Jessicának egy kriszkést, ami alapján felismeri, hogy ő az Igazi.
 8. 90. o.
 9. 103. o.
 10. 109. o.
@@ -36,6 +36,19 @@ translator: Békés András
 21. 273. o.
 22. 292. o.
 
+# Szereplők
+- #PaulAtreides 
+- #LadyJessica Paul anyja, Bene Gesserit
+- #LetoAtreides Paul apja
+- #ThufirHawat Mentát
+- #GurneyHalleck fegyvermester
+- #DuncanIdaho vívómester
+- #YuehWellington orvos, titkosügynök
+- #ShadoutMapes fremen, Lady Jessica házvezetőnője
+- #VladimirHarkonnen báró
+- #Feyd-RauthaHarkonnen a báró unokaöccse
+- #PiterDeVries Mentát a Harkonnenek szolgálatában
+- #GaiusHelenMohiam Tisztelendő Anya, Bene Gesserit
 # Arab fordítás
 فرانك هربرت: كثيب, كويت: دار كلمات (Kuwait: Dar Kalemat), 2021, ISBN 9789921730746 (Fordító: نادر أسامة, Nader Osama)
 # Filmkritika
