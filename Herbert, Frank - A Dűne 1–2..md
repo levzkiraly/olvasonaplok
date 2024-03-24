@@ -20,9 +20,11 @@ translator: Békés András
 5. 60. o. #PaulAtreides #YuehWellington Yueh tanulnivalót ad Paulnak az arrakisi útra, és ajándékoz neki egy Orániai Katolikus Bibliát.
 6. 66. o. #PaulAtreides #LetoAtreides Leto beszélget Paullal arról, hogy az Arrakis csapda, de a fremenek segítségével a saját hasznukra fordíthatják, valamint közli vele, hogy megvan Paulban a Mentát-képesség, Paul pedig vállalja, hogy folytatja a Mentát-képzést.
 7. 74. o. #LadyJessica #LetoAtreides #ShadoutMapes Lady Jessica kezd kicsomagolni az arrakeeni palotában. Leto beszélget vele a berendezkedésről és a fremenekről. Bemutatkozik Shadout Mapes, és ad Jessicának egy kriszkést, ami alapján felismeri, hogy ő az Igazi.
-8. 90. o.
-9. 103. o.
-10. 109. o.
+8. 90. o. #LadyJessica #YuehWellington Lady Jessica beszélget Yueh-vel a vízről, Paulról – Jessica benéz alvó fiához a szomszéd szobába –, a Harkonnenekről, valamint házasságaikról.
+	- … ha az ember dróton rángat másokat, rájuk kényszeríti az akaratát, akkor előbb-utóbb cinikusan látja az emberiséget. Lealacsonyul minden, amivel kapcsolatba kerül. 102. o. \[[moly.hu](https://moly.hu/idezetek/759682)]
+9. 103. o. #PaulAtreides #ShadoutMapes Paul felkel mímelt álmából, így éppen elkerül egy fürkészvadász által kitervelt merényletet. Találkozik a Shadout Mapesszel.
+10. 109. o. #LadyJessica #PaulAtreides Jessica felfedezi a növényszobát, s benne Margot Fleming titkos üzenetét, mely figyelmezteti, hogy áruló van köztük. Paul is idejön, s megbeszélik a történteket. Este Jessica fényjeleket lát a közeli hegyeken.
+	- Az az út, amelyen a legkisebb kitérő nélkül végigmennek, sehová sem vezet. A hegyre csak egy kicsit mássz föl, hogy kipróbáld, hegy-e. A hegytetőről nem láthatod a hegyet. 109. o. \[moly.hu [(1)](https://moly.hu/idezetek/782411) [(2)](https://moly.hu/idezetek/1598717) [(3)](https://moly.hu/idezetek/1797584)]
 11. 121. o.
 12. 128. o.
 13. 152. o.
