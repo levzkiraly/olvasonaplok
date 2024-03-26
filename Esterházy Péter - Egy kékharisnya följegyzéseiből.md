@@ -307,14 +307,46 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 	- #NémethGyula #PisontIstván #CsankJános #TichyLajos #MezeyGyörgy #VerebesJózsef #TelekAndrás #LipcseiPéter #AlbertFlórián #TörőcsikAndrás
 	- Karácsonykor ír a sportról, sőt: a fociról. Arról, hogy nemrég felállt a tévé elől, annyira nem szórakoztatta a meccs. Méltatja a negatív csúcsot a hazai fociban, és próbálja összekötni a magyar futballhagyománnyal.
 	- 107–108. o.: … azt hiszem, hogy most tényleg a maximális minimum\[108.]nál tartunk. Ennél lejjebb, ezt alulmúlni talán már tényleg nem lehet.
-	- 108–109. o.: A futball csapatjáték. De magunkra vagyunk hagyatva. Senkire nem lehet számítani, csak magunkra. Megszoktuk, hogy a fejünk fölött döntsenek, egyáltalán, hogy van valami „fönt”, ahol a komoly \[109.] dolgok eldőlnek. Nincs, kérem, ilyen fönt, s szembe kell nézni avval a koronként nevetséges ténnyel, hogy e komoly dolgok mi vagyunk, mi magunk dőlünk el. Ez a helyzet, ez a szabadság tétje.
+	- 108–109. o.: A futball csapatjáték. De magunkra vagyunk hagyatva. Senkire nem lehet számítani, csak magunkra. Megszoktuk, hogy a fejünk fölött döntsenek, egyáltalán, hogy van valami „fönt”, ahol a komoly \[109.] dolgok eldőlnek. Nincs, kérem, ilyen fönt, s szembe kell nézni avval a koronként nevetséges ténnyel, hogy e komoly dolgok mi vagyunk, mi magunk dőlünk el. Ez a helyzet, ez a szabadság tétje. \[[moly.hu](https://moly.hu/idezetek/2042927) (saját)]
 - A senki földjén \[ – *kis karácsonyi vidám* – ] … 110
+	- #SzívErnő #TichyLajos #NyikolajLatyicsev #CsernefalvyLászló #AlbertFlórián #MarcelProust #TörőcsikAndrás #DétáriLajos #VargaZoltán #KocsisLajos #MichaelLaudrup #HrisztoSzoicskov #SallóiDániel #SándorTamás
+	- Óda a Sport (képes, nép, nemzeti) kis színeséhez.
+	- Rácsodálkozás Szív Ernő fiatalságára, viszont óda Albert Flóriánhoz és a látványára megemelkedő lelátótömeg egyidejű lélegzetvételéhez. A régi futballsztárok méltatása, kortárs külföldiek melléemelése.
+	- Mereng, hogy mi is falta föl a magyar futballt.
+	- 110\. o.: Valljuk be őszintén, kifogyott alólunk a futball.
+	- 112\. o.: Nincs a focinak hirtelen helye a társadalomban. \[…] Nem tudjuk, mit várunk a futballtól, következésképp nem tudjuk, mit, mennyit szánjunk rá, a futball sem tudja, mi a szerepe, ezért nincs önbecsülése, nem magabízó, bizonytalanságát kekkséggel takargatja, a teljesítménynek nincs értéke, így a teljesítmény hiányának sincsen értéknélkülisége.
 ## Az anyag dicsérete … 
-- Schulz: Az anyag dicsérete … 115
-- Cela: Európa ostorozása … 117
-- Móra: Miben lakik a magyar tündér? … 117
-- Ottlik: Egy anekdota rideg tényei … 121
-- Nemes Nagy: A hang … 123
+- Az anyag dicsérete \[Schulz] \[ – *avagy a Nagy-drohobicsi Rém-üldözés* – ] … 115
+	- #WitoldGombrowitz #BrunoSchulz #FranzKafka #Ovidius #GustaveFlaubert 
+	- Bruno Schulz méltatása.
+		- Nagyon elvont; olvasni kéne hozzá.
+	- 115–116. o.: Schulz tudta, amit ma mindenki tud (tud és elfelejt), de akkor, túlzón szólva, csupán Gombrowitz és Kafka tudott, \[116.] hogy „bármi megtörténhet”. nem, ezt most rosszul mondom, ezt minden nagy író tudja, sőt azt hiszem, ebben áll a nagysága, ebben a mindenben, a képlékeny Ovidiustól a szigorú Flaubert-ig.
+- Európa ostorozása \[Cela] … 117
+	- #CamiloJoséCela #OsztovitsLevente
+	- Cela Nobel-díja kapcsán mélázás arról, hogy miért egy időskori bakugrását adták ki magyarul *(Az archidóniai bájdorong páratlan és dicsőséges hőstette),* és hogy mennyire hiányzik egy ilyen bakugrás a magyar irodalomból.
+	- 117\. o.: Mennyire hiányoznak a szellemi életünkből, a magyarságtudatunkból a rácegresi bájdorong páratlan és dicsőséges hőstettei! Bájdorongunk mint a lélek tükre. Legalább e tükör által homályosan…
+- Miben lakik a magyar tündér? \[Móra] … 117
+	- #MóraFerenc #BabitsMihály #MóriczZsigmond #KrúdyGyula #Plinius
+	- Szabadság és hagyomány. A magyar irodalmi hagyomány (és identitás) kérdése.
+	- Az irodalom nem fejlődik, és nem jelölhető ki benne fősodor: egymással feleselő hagyományok vannak.
+	- Ki a nagy író? Ki a jó? Ki (volt) a fontos?
+	- A „modern” nem az időszerű, divatos, hanem a hiteles. Aki úgy ír ma, mint Móricz, az *hazug* – a „móriczi hagyományból” is válhat ideológiai bunkó.
+	- A *Kincskereső kisködmön* jó könyv, mert megválaszolja, hogy „miben lakik a magyar tündér”.
+	- Kitérő noszogatásra. Az értékkeresés pedagógiai oldala nagyon bizonytalan. Újra kell gondolni a lehetőségeket. A kultúrához való viszony változik, nehéz ezzel mit kezdeni, s különbséget tenni személyes példaadás és pedagógiai program között.
+	- „Ugyanoda kanyarodunk mindig vissza: nekünk magunknak kell hihetőknek lennünk, hogy hihető legyen az, amit mondunk.” (121. o.)
+	- „Nehéz tanárnak lenni. De hát, vonom meg a vállam, mi nem nehéz?” (121. o.)
+	- 120\. o.: Újra kell olvasni állandóan az egész irodalomat, hol ez szólal meg, hol az. Ez a könyv nagy KINCƧ.
+	- 120\. o.: … Pliniusra kell gondolnunk: „Ez nem kitérő – ez maga a mű.”
+	- 120\. o.: A kultúrához való klasszikus európai magatartás van ugyanis változóban. Úgy mondanám, amerikanizálódik, azaz a gyakorlatiasság kerül előtérbe, a használhatóság, azaz a műveltség önértéke kérdőjeleződik meg. Lényegében az tehát, hogy a világ középpontja a könyv. \[[moly.hu](https://moly.hu/idezetek/788780)]
+	- 120\. o.: A tanítás is szükségszerűen személyesedik. A hiteles (azaz modern) tanár mindig is nagyon fontos volt, a legfontosabb, de talán nem volt a tanár ennyire magányos és magára hagyatott. \[[moly.hu](https://moly.hu/idezetek/788781)]
+- Egy anekdota rideg tényei \[Ottlik] … 121
+	- #OttlikGéza #WilheimAndrás #PetőfiSándor #CzakóGábor #BangaFerenc #SzörényiLászló #SzabóGZoltán #AlexaKároly #KukorellyEndre #KeserűKatalin #AbodyBéla #GalsaiPongrác #SzőcsGéza 
+	- Petőfi és a „légtornász” összekapcsolása Ottliknál *(Buda)* és EP-nél (Wilheim, *2000* folyóirat, „szeptember”) véletlen, vagy átvétel valamelyik irányba?
+	- Anekdota arról, hogy miként született a *Petőfi, a légtornász.*
+- A hang \[Nemes Nagy] … 123
+	- #NemesNagyÁgnes #RuttkaiÉva #RonyeczMária #ErdélyMiklós #OttlikGéza #MándyIván #MészölyMiklós #PilinszkyJános #WeöresSándor 
+	- Nemes Nagy mindig a hiányával volt jelen: személyesen nem vegyült az író-költőközösséggel. De a hangja a legnagyobbaké, mely arra a másik világra emeli a tekintetünket,s beszél „szellemi függetlenségről, röghöz és csillaghoz kötöttségről.” (124. o.)
+	- 123\. o.: A nagy költők mindig egy másik világra irányítják, nem csak a figyelmünket, de a mindenünket, a létünket, egy másik világra, melyről elfeledkeztünk, s melyet elárulunk, naponta, serényen. Válaszokból ácsolunk hamis biztonságot. \[[moly.hu](https://moly.hu/idezetek/2045884) (saját)]
 - Béládi Miklós: Az ugyanaz … 124
 - Csorba Győző: Senem … 126
 - Nádas: Születésnapi csecsebecse … 127
