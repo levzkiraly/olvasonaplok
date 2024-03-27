@@ -316,16 +316,16 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 	- 110\. o.: Valljuk be őszintén, kifogyott alólunk a futball.
 	- 112\. o.: Nincs a focinak hirtelen helye a társadalomban. \[…] Nem tudjuk, mit várunk a futballtól, következésképp nem tudjuk, mit, mennyit szánjunk rá, a futball sem tudja, mi a szerepe, ezért nincs önbecsülése, nem magabízó, bizonytalanságát kekkséggel takargatja, a teljesítménynek nincs értéke, így a teljesítmény hiányának sincsen értéknélkülisége.
 ## Az anyag dicsérete … 
-- Az anyag dicsérete \[Schulz] \[ – *avagy a Nagy-drohobicsi Rém-üldözés* – ] … 115
+- Az anyag dicsérete (Schulz) \[ – *avagy a Nagy-drohobicsi Rém-üldözés* – ] … 115
 	- #WitoldGombrowitz #BrunoSchulz #FranzKafka #Ovidius #GustaveFlaubert 
 	- Bruno Schulz méltatása.
 		- Nagyon elvont; olvasni kéne hozzá.
 	- 115–116. o.: Schulz tudta, amit ma mindenki tud (tud és elfelejt), de akkor, túlzón szólva, csupán Gombrowitz és Kafka tudott, \[116.] hogy „bármi megtörténhet”. nem, ezt most rosszul mondom, ezt minden nagy író tudja, sőt azt hiszem, ebben áll a nagysága, ebben a mindenben, a képlékeny Ovidiustól a szigorú Flaubert-ig.
-- Európa ostorozása \[Cela] … 117
+- Európa ostorozása (Cela) … 117
 	- #CamiloJoséCela #OsztovitsLevente
 	- Cela Nobel-díja kapcsán mélázás arról, hogy miért egy időskori bakugrását adták ki magyarul *(Az archidóniai bájdorong páratlan és dicsőséges hőstette),* és hogy mennyire hiányzik egy ilyen bakugrás a magyar irodalomból.
 	- 117\. o.: Mennyire hiányoznak a szellemi életünkből, a magyarságtudatunkból a rácegresi bájdorong páratlan és dicsőséges hőstettei! Bájdorongunk mint a lélek tükre. Legalább e tükör által homályosan…
-- Miben lakik a magyar tündér? \[Móra] … 117
+- Miben lakik a magyar tündér? (Móra) … 117
 	- #MóraFerenc #BabitsMihály #MóriczZsigmond #KrúdyGyula #Plinius
 	- Szabadság és hagyomány. A magyar irodalmi hagyomány (és identitás) kérdése.
 	- Az irodalom nem fejlődik, és nem jelölhető ki benne fősodor: egymással feleselő hagyományok vannak.
@@ -339,27 +339,47 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 	- 120\. o.: … Pliniusra kell gondolnunk: „Ez nem kitérő – ez maga a mű.”
 	- 120\. o.: A kultúrához való klasszikus európai magatartás van ugyanis változóban. Úgy mondanám, amerikanizálódik, azaz a gyakorlatiasság kerül előtérbe, a használhatóság, azaz a műveltség önértéke kérdőjeleződik meg. Lényegében az tehát, hogy a világ középpontja a könyv. \[[moly.hu](https://moly.hu/idezetek/788780)]
 	- 120\. o.: A tanítás is szükségszerűen személyesedik. A hiteles (azaz modern) tanár mindig is nagyon fontos volt, a legfontosabb, de talán nem volt a tanár ennyire magányos és magára hagyatott. \[[moly.hu](https://moly.hu/idezetek/788781)]
-- Egy anekdota rideg tényei \[Ottlik] … 121
+- Egy anekdota rideg tényei (Ottlik) … 121
 	- #OttlikGéza #WilheimAndrás #PetőfiSándor #CzakóGábor #BangaFerenc #SzörényiLászló #SzabóGZoltán #AlexaKároly #KukorellyEndre #KeserűKatalin #AbodyBéla #GalsaiPongrác #SzőcsGéza 
 	- Petőfi és a „légtornász” összekapcsolása Ottliknál *(Buda)* és EP-nél (Wilheim, *2000* folyóirat, „szeptember”) véletlen, vagy átvétel valamelyik irányba?
 	- Anekdota arról, hogy miként született a *Petőfi, a légtornász.*
-- A hang \[Nemes Nagy] … 123
+- A hang (Nemes Nagy) … 123
 	- #NemesNagyÁgnes #RuttkaiÉva #RonyeczMária #ErdélyMiklós #OttlikGéza #MándyIván #MészölyMiklós #PilinszkyJános #WeöresSándor 
 	- Nemes Nagy mindig a hiányával volt jelen: személyesen nem vegyült az író-költőközösséggel. De a hangja a legnagyobbaké, mely arra a másik világra emeli a tekintetünket,s beszél „szellemi függetlenségről, röghöz és csillaghoz kötöttségről.” (124. o.)
 	- 123\. o.: A nagy költők mindig egy másik világra irányítják, nem csak a figyelmünket, de a mindenünket, a létünket, egy másik világra, melyről elfeledkeztünk, s melyet elárulunk, naponta, serényen. Válaszokból ácsolunk hamis biztonságot. \[[moly.hu](https://moly.hu/idezetek/2045884) (saját)]
-- Béládi Miklós: Az ugyanaz … 124
-- Csorba Győző: Senem … 126
-- Nádas: Születésnapi csecsebecse … 127
+- Az ugyanaz (Béládi Miklós) … 124
+	- #BéládiMiklós
+	- Méltatás Béládi Miklósról a hiánya kapcsán. Munkabírása. Közvetítő személyisége, mely abban az időben, abban a rendszerben kulcsfontosságú volt. Irodalompolitikai tényező, aki nem csak a saját szempontjait kereste az irodalomban, hanem az egészet nézte.
+	- 124\. o.: Noha éppen a halála után, a nyolcvanas évek második felében lett ez a modell egyre kérdésesebb, az egyezkedések, az ál-párbeszédek, a kis cinkosságok, a „vacsorák” ideje lejárt. A korombélieknek tulajdonképp ez sohasem volt reflexe, az előttünk lévő nemzedékek túlélési technikáihoz tartozott. Erre gondolni ma egyre kínosabb, hiszen mindennek a szabadságból látható tétjei oly nevetségesek és kisszerűek.
+	- 125\. o.: Béládi „benne volt a dolgokban”. Ez őt előttem (koromnál és helyzetemnél fogva) meglehetősen idegenné tette – egészen addig, míg meg nem ismertem. Érdemes erre a tapasztalatra fölfigyelni, midőn visszanézünk ebbe a maszatos félmúltba: egyikőnk sem *elvi eset.* Juci, Feri, Miki – ez vagyunk; s noha ettől még nem ússzuk meg a nevetségességet és az említett kínosság sem csökken, de talán e kései gőg meg pökhendiség igen.
+- Senem (Csorba Győző) … 126
+	- #CsorbaGyőző #NemesNagyÁgnes #BodorÁdám #UngváryRudolf #ThomasBernhard #VasadiPéter
+	- Elbeszélés arról, hogy hogyan nem írta meg a Csorba-cikket. Csorba versei: Dunántúl, lanka, csöndes kaland, „se nem csorba, se nem győző.” (127. o.)
+- Születésnapi csecsebecse (Nádas) … 127
+	- #NádasPéter #SomogyiGyőző 
+	- Nádas nagy megfigyelő. „Az egyetlen parasztíró, többek közt.” (127. o.) Családi hátterük egész más, mégis kevés emberben bízik meg úgy, mint őbenne. Isten éltesse.
+	- 127\. o.: De nem temetni jöttem Cézárt.
 - Petri Lukács Ádám könyvéhez … 128
-- Láng Zsolt: A római nagyharang … 128
-- Somogyi Győző: Magyarul, hisz hogyan is másképp … 129
-- S. Gy.: Hahn-Hahn grófnő locsogása … 131
+	- #PetriLukácsÁdám #PetriGyörgy
+	- Méltatja „az apja fia” kötetét.
+		- Kicsit mintha meg kéne erőltetnie magát érte.
+- A római nagyharang (Láng Zsolt) … 128
+	- #LángZsolt #AranyJános 
+	- Láng Zsolt: *Perényi szabadulása* c. kötetének méltatása, melyet tüneményesnek, elegánsnak, kecsesnek nevez, s mely „legalább mutatja a saját magányát” (129. o.). A címbe helyezett kifejezés pedig egy pozitúra, de rákérdez, mert nem tudja, mit takar.
+- Magyarul, hisz hogyan is másképp (Somogyi Győző) … 129
+	- #SomogyiGyőző #SáraSándor
+	- „Somogyi Győző ősmagyar.” (129. o.) „Az ősmagyaron azt érteném, hogy Somogyi ősidők óta nézi ezt az országot, együtt jött be Árpáddal, ennyi idő van a tekintetében.” (130. o.) A képek persze főként képek. Magyar inventár. Veszteség és gazdagság, „ami elmúlt, az is a miénk”, és „a hazaszeretet szeretet, itt, most.” (130. o.)
+- Hahn-Hahn grófnő locsogása (S. Gy.) … 131
+	- #SomogyiGyőző 
+	- „Ha én Duna volnék”, mitől magyar a Duna, talán határfolyóként a másik oldalról könnyebb megérteni az egyiket, a magyar identitásnak nem védőbástyaként kéne épülnie, hanem tágas térként, amúgy ha ő Duna volna, nem lenne semmi, Semmi mint Minden, illetve továbbállna.
+	- 131–132. o.: A magyarságunkat nem védeni kéne, hanem használni, birtokolni, szétosztani, magyarnak lenni az nem hősiesség, hanem gazdagság, egy nép kultúrája se zordon, heroikus várfok, hanem inkább tágas, szellős tér, a zor-\[132.]don, heroikus várfokokat előbb-utóbb lerombolják, a tágas, szellős tereken viszont kirándulnak az emberek, piknikeznek, nőznek, élnek-halnak. \[[moly.hu](https://moly.hu/idezetek/788787)]
+	- 132\. o.: Tehetetlenségünkben vagyunk közösek, van, akinek mennie kell, van, akinek maradnia. És akkor mi van. \[uott]
 - Hol, ki … 132
-- Bahman: Hűség a buherához … 134
+- Hűség a buherához (Bahman) … 134
 - Gothárörkény … 136
 - Egy utolsó film … 137
-- Bernhard: A színházcsinálónéző … 138
-- Tábori:Himnusz a férfiról … 140
+- A színházcsinálónéző (Bernhard) … 138
+- Himnusz a férfiról (Tábori) … 140
 ## A semmiről, a mindenről … 
 - A csók … 143
 - Önarckép … 147
@@ -367,7 +387,7 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 - Töredék … 149
 - Tengeri bagatell … 152
 - Az segédkéz … 155
-- Kosztolányi Dezső: A csokornyakkendős ember … 158
+- A csokornyakkendős ember (Kosztolányi Dezső) … 158
 - Thomas Mann kebabot majszol a Holstentor tövében … 165
 - Az idő városa … 174
 - Egy reálisan létező utca … 181
@@ -389,7 +409,7 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 - Tégy a gyűlölet ellen! … 252
 - A teve följegyzéseiből … 254
 - Kicsoda Horthy Miklós, és kicsodák vagyunk mi? … 259
-- Antall József: Egy váratlan jelkép … 265
+- Egy váratlan jelkép (Antall József) … 265
 - Érzelmes négykezes … 267
 - Év végi levél … 269
 ## Bohóctréfa … 
