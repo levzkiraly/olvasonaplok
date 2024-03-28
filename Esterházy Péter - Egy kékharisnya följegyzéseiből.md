@@ -375,11 +375,34 @@ Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egy
 	- 131–132. o.: A magyarságunkat nem védeni kéne, hanem használni, birtokolni, szétosztani, magyarnak lenni az nem hősiesség, hanem gazdagság, egy nép kultúrája se zordon, heroikus várfok, hanem inkább tágas, szellős tér, a zor-\[132.]don, heroikus várfokokat előbb-utóbb lerombolják, a tágas, szellős tereken viszont kirándulnak az emberek, piknikeznek, nőznek, élnek-halnak. \[[moly.hu](https://moly.hu/idezetek/788787)]
 	- 132\. o.: Tehetetlenségünkben vagyunk közösek, van, akinek mennie kell, van, akinek maradnia. És akkor mi van. \[uott]
 - Hol, ki … 132
+	- #SybilleBergemann #WilmarKoenig
+	- A fotó dezinformációs értékéről a saját Füst Milán-díja átvételének illusztrációjával. Sybille Bergemann fotóiról: szürke szocializmus (bár a nyugat színei is hasonlóak), készülő mű optimizmusa. Önvizsgálatra, önazonosításra serkentő művek.
+	- 133\. o.: Ezek itt német képek, nagyon is német képek. Mi közünk hozzájuk? – túl azon, hogy minden jóhoz közünk van.
+	- 133\. o.: A képek színessége még inkább hangsúlyozza a szürkét, a szocialista létszürkét.
 - Hűség a buherához (Bahman) … 134
+	- #BachmanGábor
+	- A „buhera” a vasfüggöny mögötti élet térépítési technikája volt. Bachman kiállítását méltatja. Irtózik a provincializmustól. Azt el kell fogadni, hogy a buhera örök.
+		- Vagyis az élet (főként) kis pótlások, ragasztások, javítások óriáskupaca. Amikor előjön egy nagy vonulat, egy trend, az a rendkívüli. De ha folyton azt kéred számon, ha folyton a romantikára nosztalgiázol, elmész amellett, ami ma kezdődik.
+	- Bachman szerint: térben élünk és nem tájban. Ez a baj: a tér lehet gonosz, a táj mindig organikus, alig ismerünk már ilyet.
+	- Bachman tér-tákoló, nem építész, térítész. Azonnal *látni* akar. Veszélyes, dús, olykor zagyva. Élvezzük a teret.
+	- 135\. o.: A buhera örök, ez derült ki. A világ buherált. A technika más, a dezodor más, de ugyanúgy (legföljebb) egy lépést látunk előre. Az európai botorkálás is botorkálás, csak épp a tratoár rendben aszfaltozva, nem járunk szügyig sárban; sétálóutca.
 - Gothárörkény … 136
-- Egy utolsó film … 137
+	- #GothárPéter #ÖrkényIstván #ForgácsPéter #EnyediIldikó #SzikoraJános #BástiJuli #KarácsonyTamás #KariGyöngyi #LázárKatalin #MolnárPiroska #JordánTamás #MagyarAttila #PresserGábor
+	- Gothár úgy hűséges a háborúelőtti-vonatkozású (EP-nek kissé ellenszenves) Örkényhez a tévés feldolgozásban, hogy valójában a mait mutatja meg vele.
+	- A *Közjátékok* tévésorozatban Örkényt szétszedi, értelmezi, fölmutatja, „közjátékosítja”.
+	- Méltatja sok nevet felvonultatva a színészi játékot, valamint az eszközök egységét és összhangját.
+	- 136\. o.: Nem a művek változtak, mi fordultunk valamiképpen a művek alá. Vagyis, mondjuk, a szavak változtak meg; egy „államtitkár úr”, egy „kérlekalássan” régebben éppen a biztonságos múltba tolta a szöveget, ma pedig zavarbahozóan közeli, és éppen azért zavarbahozó, mert egyszer már úgy tudtuk, hogy elmúlt.
+- Egy utolsó film \[ – *Gothár Péter: Melodráma* – ] … 137
+	- #GothárPéter #KornisMihály #LázárKatalin #LukátsAndor #SzarvasJózsef #MagyarAttila #GyuriczaIstván #JohannWolfgangVonGoethe
+	- Nem a téma miatt nevezi „a Kádár-korszak utolsó filmjé”-nek a *Melodrámát,* hanem mert Gothár szenvedélye származik abból az időből. A szenvedély nem rendszerfüggetlen: a film leletmentés, önmagunk lajstromozása. Dicséri a szobabelsőket, a reflexeket, a köznapi nyelv bravúrját, és különösen a színészi munkát – Gyuricza feje különösen lenyűgözte, szerethető és megvetendő, zavarba ejtő.
 - A színházcsinálónéző (Bernhard) … 138
+	- #ThomasBernhard #KurtágGyörgy #SinkóLászló #TímárÉva #VallaiPéter #TóthJózsef #RétiSzilvia
+	- Arról beszél, hogy bár szereti a színházban érintett embereket, de az *egész* hidegen hagyja, mint valami múzeum kiállítási tárgyai.
+	- A színház a MOST. „Hazugok hazugságot hazugul hazugoknak.”
+	- 139\. o.: … s ott üldögélvén egyszer csak elöntött az öncsalás meleg érzése, mintha egy fantasztikus városban élnénk, de legalábbis mintha mi fantasztikusak volnánk; színház.
 - Himnusz a férfiról (Tábori) … 140
+	- #TáboriGyörgy #FerencFerdinánd #MéreiFerenc
+	- Tábori erényének azt hozza fel, hogy nincs benne az az erőlködés, hogy férfiasnak látsszon, amire amikor eme férfiak ráeszmélnek, idézőjelek közé teszik, kinevetik magukat, reflektálnak. Tábori direktben, egyenesben férfi.
 ## A semmiről, a mindenről … 
 - A csók … 143
 - Önarckép … 147
