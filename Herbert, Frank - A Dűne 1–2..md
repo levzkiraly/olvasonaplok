@@ -13,6 +13,7 @@ translator: Békés András
 ---
 # Első könyv. A Dűne
 1. 5\. o. #PaulAtreides #LadyJessica #GaiusHelenMohiam Paul kiállja a gom-dzsabbar próbáját.
+	- Nem szabad félnem. A félelem az elme gyilkosa. A félelem a kis halál, mely megsemmisüléshez vezet. Szembenézek félelmemmel. Hagyom, hogy áthaladjon rajtam, fölöttem. És amikor mögöttem van, utánafordítom belső tekintetemet, követem az útját. Amikor a félelem elment, nem marad semmi, csak én magam. 14. o. \[[moly.hu?q=](https://moly.hu/idezetek/kereses?q=%22a+f%C3%A9lelem+a+kis+hal%C3%A1l%22)]
 2. 22\. o. #VladimirHarkonnen #FeydRauthaHarkonnen #PiterDeVries Harkonnen báró megbeszéli Mentátjával és unokaöccsével az Atreidesek elleni csapdát és nagyszabású tervét.
 3. 35\. o. #LadyJessica #GaiusHelenMohiam #PaulAtreides A Tisztelendő Anya beszél Lady Jessicának a sorsáról, majd Paul elmeséli neki álmát egy lányról.
 4. 44\. o. #ThufirHawat #PaulAtreides #GurneyHalleck Thufir Hawat és Paul beszélgetnek Arrakisról, majd Gurney megjön, énekel, és fegyverismeretet tanít Paulnak.
@@ -25,11 +26,12 @@ translator: Békés András
 9. 103\. o. #PaulAtreides #ShadoutMapes Paul felkel mímelt álmából, így éppen elkerül egy fürkészvadász által kitervelt merényletet. Találkozik a Shadout Mapesszel.
 10. 109\. o. #LadyJessica #PaulAtreides Jessica felfedezi a növényszobát, s benne Margot Fleming titkos üzenetét, mely figyelmezteti, hogy áruló van köztük. Paul is idejön, s megbeszélik a történteket. Este Jessica fényjeleket lát a közeli hegyeken.
 	- Az az út, amelyen a legkisebb kitérő nélkül végigmennek, sehová sem vezet. A hegyre csak egy kicsit mássz föl, hogy kipróbáld, hegy-e. A hegytetőről nem láthatod a hegyet. 109. o. \[moly.hu [(1)](https://moly.hu/idezetek/782411) [(2)](https://moly.hu/idezetek/1598717) [(3)](https://moly.hu/idezetek/1797584)]
-11. 121\. o.
-12. 128\. o.
-13. 152\. o.
-14. 159\. o.
-15. 164\. o.
+11. 121\. o. #LetoAtreides #GurneyHalleck Leto gondolatai, melyből kiderül, hogy a fiáért aggódik, és áldozatként vállalta be az Arrakist. Eligazítást ad a csapatával érkező Gurneynek.
+12. 128\. o. #LetoAtreides #PaulAtreides #ThufirHawat #GurneyHalleck #DuncanIdaho #Stilgar Leto stratégiai megbeszélést tart a leszállópálya tanácskozótermében. Téma: a fremenek és a csempészek megbízhatósága, a Harkonnenek felszereltsége, a fűszerkitermelés eszközei, fremen csapatok előkészítése a harcra, tehetős Harkonnen-bérencek kifúrása, a kriszkésről (Stilgarral), Duncan kettős kötöttségéről, Hawat jelentéséről az előretolt bázisokról és Kynesról.
+	- „Idegenként járok az idegen földön” – idézte Halleck. 142. o.
+13. 152\. o. #LetoAtreides #ThufirHawat Hawat elmondja Letónak a töredékes üzenetet, amit a Harkonnen-futártól el tudtak szedni, és próbálja meggyőzni arról, hogy Lady Jessica lehet az áruló, de ezt Leto csak látszólag fogadja el. Később magányos töprengése közben a napkelte színei lenyűgözik.
+14. 159\. o. #LetoAtreides #PaulAtreides Leto elmondja Paulnak, hogy Jessicára csak látszólag fog gyanakodni, de beszél fáradtságáról, a fűszer miatti óvatosságról, és arról is, hogy az uralkodás az Arrakison gonosz eszközöket is igényelhet.
+15. 164\. o. #LietKynes #LetoAtreides #PaulAtreides #GurneyHalleck Első találkozás Kynesszal, aki elvezeti a hercegéket ornitopterükön egy fűszergyárhoz a sivatagban. Tanúi egy homokféreg érkezésének is, és látnak dűnelegényeket is, de Paul érzékeli, hogy Kynes (aki egyébként ellenségnek is tekinti őket) a szavaiban torzítja az igazságot. Kynes szkeptikus, de észleli, hogy a messiási próféciák mennyire illenek Paulra.
 16. 197\. o.
 17. 229\. o.
 18. 247\. o.
