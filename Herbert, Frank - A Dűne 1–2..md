@@ -25,14 +25,15 @@ translator: Békés András
 	- … ha az ember dróton rángat másokat, rájuk kényszeríti az akaratát, akkor előbb-utóbb cinikusan látja az emberiséget. Lealacsonyul minden, amivel kapcsolatba kerül. 102. o. \[[moly.hu](https://moly.hu/idezetek/759682)]
 9. 103\. o. #PaulAtreides #ShadoutMapes Paul felkel mímelt álmából, így éppen elkerül egy fürkészvadász által kitervelt merényletet. Találkozik a Shadout Mapesszel.
 10. 109\. o. #LadyJessica #PaulAtreides Jessica felfedezi a növényszobát, s benne Margot Fleming titkos üzenetét, mely figyelmezteti, hogy áruló van köztük. Paul is idejön, s megbeszélik a történteket. Este Jessica fényjeleket lát a közeli hegyeken.
-	- Az az út, amelyen a legkisebb kitérő nélkül végigmennek, sehová sem vezet. A hegyre csak egy kicsit mássz föl, hogy kipróbáld, hegy-e. A hegytetőről nem láthatod a hegyet. 109. o. \[moly.hu [(1)](https://moly.hu/idezetek/782411) [(2)](https://moly.hu/idezetek/1598717) [(3)](https://moly.hu/idezetek/1797584)]
+	- Az az út, amelyen a legkisebb kitérő nélkül végigmennek, sehová sem vezet. A hegyre csak egy kicsit mássz föl, hogy kipróbáld, hegy-e. A hegytetőről nem láthatod a hegyet. \[Irulan hercegnő: Családi kommentárok Muad-Dibről] 109. o. \[moly.hu [(1)](https://moly.hu/idezetek/782411) [(2)](https://moly.hu/idezetek/1598717) [(3)](https://moly.hu/idezetek/1797584)]
 11. 121\. o. #LetoAtreides #GurneyHalleck Leto gondolatai, melyből kiderül, hogy a fiáért aggódik, és áldozatként vállalta be az Arrakist. Eligazítást ad a csapatával érkező Gurneynek.
 12. 128\. o. #LetoAtreides #PaulAtreides #ThufirHawat #GurneyHalleck #DuncanIdaho #Stilgar Leto stratégiai megbeszélést tart a leszállópálya tanácskozótermében. Téma: a fremenek és a csempészek megbízhatósága, a Harkonnenek felszereltsége, a fűszerkitermelés eszközei, fremen csapatok előkészítése a harcra, tehetős Harkonnen-bérencek kifúrása, a kriszkésről (Stilgarral), Duncan kettős kötöttségéről, Hawat jelentéséről az előretolt bázisokról és Kynesról.
 	- „Idegenként járok az idegen földön” – idézte Halleck. 142. o.
 13. 152\. o. #LetoAtreides #ThufirHawat Hawat elmondja Letónak a töredékes üzenetet, amit a Harkonnen-futártól el tudtak szedni, és próbálja meggyőzni arról, hogy Lady Jessica lehet az áruló, de ezt Leto csak látszólag fogadja el. Később magányos töprengése közben a napkelte színei lenyűgözik.
 14. 159\. o. #LetoAtreides #PaulAtreides Leto elmondja Paulnak, hogy Jessicára csak látszólag fog gyanakodni, de beszél fáradtságáról, a fűszer miatti óvatosságról, és arról is, hogy az uralkodás az Arrakison gonosz eszközöket is igényelhet.
-15. 164\. o. #LietKynes #LetoAtreides #PaulAtreides #GurneyHalleck Első találkozás Kynesszal, aki elvezeti a hercegéket ornitopterükön egy fűszergyárhoz a sivatagban. Tanúi egy homokféreg érkezésének is, és látnak dűnelegényeket is, de Paul érzékeli, hogy Kynes (aki egyébként ellenségnek is tekinti őket) a szavaiban torzítja az igazságot. Kynes szkeptikus, de észleli, hogy a messiási próféciák mennyire illenek Paulra.
-16. 197\. o.
+15. 164\. o. #LietKynes #LetoAtreides #PaulAtreides #GurneyHalleck Első találkozás Kynesszal, aki bemutatja a cirkoruhát, majd elvezeti a hercegéket ornitopterükön egy fűszergyárhoz a sivatagban. Tanúi egy homokféreg érkezésének is, a légivagon eltűnése miatt ők mentik meg a legénységet, és látnak dűnelegényeket is, de Paul érzékeli, hogy Kynes (aki egyébként ellenségnek tekinti őket) a szavaiban torzítja az igazságot. Kynes szkeptikus, de meglepi, hogy a messiási próféciák mennyire illenek Paulra.
+16. 197\. o. #LetoAtreides #LadyJessica #DuncanIdaho #PaulAtreides #LingarBewt #LietKynes #SuSu #EsmarTuek #GurneyHalleck Ünnepi díszvacsora az arrakeeni házban. Leto eltörli a vizes törölköző szokását. Bewt replikázik Kynesszal és az Atreides házaspárral a bolygó klímájának megváltoztatásáról. Leto beszédet mond, a kupából a földre önti a vizet. Beszélgetés az elveszett légivagonról. Su-su (a Ligabank képviselője) utal vízügyi hatalmára. Megsérti Kynest a halottakból kinyert víz hírének hallatára. Kynes kis híján elszólja, hogy az Arrakison van elég víz az emberi élet fenntartásához. Letót sürgős ügy szólítja el, Paul lép a helyére. Bewtöt ismét le akarja járatni Su-su, Paul a vízbe fúlt halász történetével válaszol; a bankár megsértődik, de Kynes megoldja a feszültséget. Beszélgetnek a belső sivatagról szóló mendemondákról. Jessica megkapja Leto titkos üzenetét, hogy lefülelték a Harkonnenek egy lézerfegyver-szállítmányát.
+	- A nagyság mulandó élmény. Sohasem ellentmondás nélküli. Részben az ember mítoszteremtő képzelőerejének függvénye. Aki átéli a nagyságot, annak érzékelnie kell a mítoszt, amelynek része. Tükröznie kell azt, ami rávetül. Ezenkívül gúnynak és öngúnynak kell benne lakoznia. Ez az, ami megóvja a tulajdon pózaiba vetett hittől. Csak ez teszi lehetővé, hogy ne merevedjék bele önmagába. Öngúny híján még az időleges nagyság is tönkreteheti az embert. \[Irulan hercegnő: Muad-Dib összegyűjtött mondásai] 197. o. \[moly.hu [(1)](https://moly.hu/idezetek/98369) [(2)](https://moly.hu/idezetek/1784816)]
 17. 229\. o.
 18. 247\. o.
 19. 253\. o.
@@ -41,14 +42,19 @@ translator: Békés András
 22. 292\. o.
 
 # Szereplők
-- #PaulAtreides 
+- #PaulAtreides herceg
 - #LadyJessica Paul anyja, Bene Gesserit
 - #LetoAtreides Paul apja
 - #ThufirHawat Mentát
-- #GurneyHalleck fegyvermester
+- #GurneyHalleck fegyvermester, balisetes-énekes
 - #DuncanIdaho vívómester
 - #YuehWellington orvos, titkosügynök
+- #LietKynes császári planetológus (ökológus), fremen
+- #Stilgar fremen főnök
 - #ShadoutMapes fremen, Lady Jessica házvezetőnője
+- #LingarBewt vízgyáros mágnás
+- #SuSu bankár, a Ligabank képvselője, a Vízárusok Szövetségének pénzügyi tanácsadója
+- #EsmarTuek csempész
 - #VladimirHarkonnen báró
 - #FeydRauthaHarkonnen a báró unokaöccse
 - #PiterDeVries Mentát a Harkonnenek szolgálatában
