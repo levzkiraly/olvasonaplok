@@ -6,13 +6,14 @@ series: Kozmosz Fantasztikus Könyvek, ISSN 0324-5225
 place: Budapest
 publisher: Kozmosz Könyvek
 year: "1987"
-isbn: 963-211-765-4
+isbn (1. volume): 963-211-765-4
+isbn (2. volume): 963-211-766-2
 isbn (set): 963-211-767-0
 language: Hungarian
 translator: Békés András
 ---
 # Első könyv. A Dűne
-1. 5\. o. #PaulAtreides #LadyJessica #GaiusHelenMohiam Paul kiállja a gom-dzsabbar próbáját.
+1. \[1. kötet] 5\. o. #PaulAtreides #LadyJessica #GaiusHelenMohiam Paul kiállja a gom-dzsabbar próbáját.
 	- Nem szabad félnem. A félelem az elme gyilkosa. A félelem a kis halál, mely megsemmisüléshez vezet. Szembenézek félelmemmel. Hagyom, hogy áthaladjon rajtam, fölöttem. És amikor mögöttem van, utánafordítom belső tekintetemet, követem az útját. Amikor a félelem elment, nem marad semmi, csak én magam. 14. o. \[[moly.hu?q=](https://moly.hu/idezetek/kereses?q=%22a+f%C3%A9lelem+a+kis+hal%C3%A1l%22)]
 2. 22\. o. #VladimirHarkonnen #FeydRauthaHarkonnen #PiterDeVries Harkonnen báró megbeszéli Mentátjával és unokaöccsével az Atreidesek elleni csapdát és nagyszabású tervét.
 3. 35\. o. #LadyJessica #GaiusHelenMohiam #PaulAtreides A Tisztelendő Anya beszél Lady Jessicának a sorsáról, majd Paul elmeséli neki álmát egy lányról.
@@ -41,7 +42,43 @@ translator: Békés András
 20. 269\. o. #YuehWellington Yueh-t az érkező bashar katona az öntudatlan Leto mellett találja. Tájékoztatás után kiküldi várakozni a báróra. Ezt Yueh kihasználja, hogy a herceg pecsétgyűrűjét becsempéssze az ornitopterben elrejtett csomagba.
 21. 273\. o. #VladimirHarkonnen #PiterDeVries #UmmanKudu #YuehWellington #LetoAtreides #IakinNefud A Harkonnen erők végzetes csapást mérnek a Pajzsfal barlangjaiba menekült, tehetetlen Atreides-katonákra. Piter és Umman beviszi Letót a báróhoz kihallgatásra. Itt a továbbra is kába Leto megérti, hogy Paul és Jessica megszökött, és további emberei holléte is ismeretlen, ezért tudja, hogy nincs minden veszve. A mérges gázzal töltött műfogat elharapja, de a báró megmenekül, csak az embereit öli meg. Iakin Nefud örökli meg az őrparancsnoki címet. A bashar ezredes megérkezik, hogy ellenőrizze a herceg holttestét; ebből a báró tudja, hogy a Császár tudni fogja, hogy hibázott, és kis híján bele is halt.
 22. 292\. o. #PaulAtreides #LadyJessica #DuncanIdaho Paul egy cirkosátorban pihen anyjával. Összerakja az elmúlt órák, a menekülés emlékeit. Furcsállja, hogy nem érez gyászt. Feltűnik neki, hogy megérzései felerősödtek, s hogy anyja megérzéseit lassúnak és gyengének találja. A rádión hallják, hogy az Atreides-erők pusztulnak, és a Harkonnenek győzelmet aratnak. Paul felismeri, hogy a fremenek szándékosan elterelik a bolygóközi figyelmet a sivatagról, s ezért fűszerrel fizetnek. Paul átadja apja üzenetét anyjának, hogy ő mindvégig bízott benne. Paulnak látomása van, meglátja a jövő útjait. Megrémíti a képessége, örökségének és kiképzésének komplexitása, és haragszik anyjára. Belátja, hogy a fűszer addikciójában élnek, ezért elszakíthatatlanok már az Arrakistól. A jövőt a fremenek között látja. Paul azt is felfedi, hogy Jessica báró Harkonnen lánya. Azt azonban nem fogadja el, hogy ő a Kwisatz Haderach; magát „váratlannak”, vagy egyszerűen *Mag*nak nevezi, akit Muad-Dibnek fognak nevezni. Ekkor megtörik, és átéli a gyászt.
-
+# Második könyv. Muad-Dib
+1. \[2. kötet] 5\. o. #PaulAtreides #LadyJessica Paul és Jessica kijönnek a csillagos ég alá a homokvihar által belepett cirkosátorból, és látják, hogy a közelben lézerharc dúl. Ornitopter közelít feléjük.
+2. 12\. o. #ThufirHawat Hawat mereng a Harkonnen-támadás méretéről, majd a vele levő fremennel beszélget a sebesültekről, majd kiderül, hogy a fremenek élvezik a sardaukarok elleni harcot, és rendkívül sikeresek velük szemben. Egy sebesült, Arkie, meghal, az ő vizét a fremeneknek adja Hawat „a víz köteléke” jeléül. Tanúi annak, hogy egy csapat fremen hogyan szerel le egy csapat sardaukart, és szerzi meg az ornitopterüket, de a harc eszkalálódik, Hawat fremen társát váratlanul megölik, és ő is kap egy tűvető-lövedéket.
+3. 29\. o. #PaulAtreides #LadyJessica #DuncanIdaho #LietKynes Duncan érkezik az ornitopterral; hallják, ahogy a lézerfegyverek miatt felrobban a pajzzsal védett családi atombázis. Kynes levezeti őket egy barlanglaboratóriumba. Paul elmondja ajánlatát: a Császárt meg lehet zsarolni azzal, hogy a Landsraadnak vádiratot ír; cserébe önmagát teteti meg császárnak (a Császárnak nincs fiúgyermeke), és ezzel a hatalommal éri el, hogy az Arrakis élhető bolygóvá váljon. Kynesszal kölcsönös hűséget fogadnak egymásnak. A Harkonnenek megtámadják a barlangot; egy vaksötét labirintuson át Paul és Jessica kijut egy elrejtett ornitopterhez. Ezzel felszállnak, de üldözésbe veszik ezt is.
+4. 48\. o.
+5. 64\. o.
+6. 86\. o.
+7. 95\. o.
+8. 103\. o.
+9. 120\. o.
+10. 136\. o.
+11. 149\. o.
+12. 170\. o.
+13. 189\. o.
+14. 218\. o.
+15. 232\. o.
+# Harmadik könyv. A próféta
+1. 255\. o.
+2. 267\. o.
+3. 279\. o.
+4. 297\. o.
+5. 313\. o.
+6. 324\. o.
+7. 350\. o.
+8. 370\. o.
+9. 385\. o.
+10. 399\. o.
+11. 414\. o.
+# Függelékek
+1. függelék: A Dűne környezettana … 453. o.
+2. függelék: A Dűne vallása … 465. o.
+3. függelék: Jelentés a Bene Gesserit indítékairól és céljairól … 477. o.
+4. függelék: Az Almanak en-Asraf (Szemelvények a Nemes Házak tagjainak életrajzaiból) … 482. o.
+# Az impérium terminológiája
+485\. o.
+# Jegyzetek a térképhez
+515\. o.
 # Szereplők
 - #PaulAtreides herceg
 - #LadyJessica Paul anyja, Bene Gesserit
