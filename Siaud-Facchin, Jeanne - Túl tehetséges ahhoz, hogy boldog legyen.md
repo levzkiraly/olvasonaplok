@@ -72,4 +72,44 @@ isbn-13: 978-963-355-492-0
 - Felnőttkor:
 	- **„A felnőtté válás azt jelenti, hogy kézen fogjuk a gyereket, aki mi voltunk egykor”** (110.)
 	- A szuperintelligensek problémái nem feltétlenül a különbözőségükből adódnak, hanem a különbözőséggel kapcsolatos *érzéseikből.*
-- 
+# 4\. Diagnosztizálás … 113
+"A szuperintelligencia felfedezése önmagunkban" – mottó: "Ki van zárva, hogy szuperintelligens volnék, hiszen egy nagy nulla vagyok!"
+- Sok szuperintelligens felnőttnek nehéz elhinnie magáról, hogy az. Szuperintelligens gyerekekkel való találkozás lehet rávezető
+- "Mérleg" tesztsorozat: 
+	1. Intelligenciateszt: WAIS, esetleg kiegészítve: Cattell-mátrix, Rey-féle próba, D48-teszt
+		- A WAIS 11 (+3) tesztből áll, egy részük verbális intelligenciát (tapasztalatokból szerzett intelligencia), más részük performanciát (fluid intelligencia) mér
+	2. Személyiség feltérképezése: projekciós tesztek, elsősorban Rorschach-teszt.
+- A teszt eredménye: globális IQ + négy további tényező: verbális megértés, perceptuális következtetés, munkamemória, feldolgozási sebesség.
+	- Szuperintelligensnek minősül
+		- a kb. 130 fölötti IQ (2 szórásra az átlagtól, kb. felső 2%)
+		- minél inkább egyezik a verbális és a performanciamérés szerinti IQ, annál megbízhatóbb
+	- Bizonytalansági tényezők
+		- Szorongás: lerontja a mérési eredményeket
+		- Zavart pszichés állapotok, speciális nehézségek ("disz"-ek)
+		- A két skála eltérése
+			- A verbális eredmény túlsúlya esetén, vagyis amikor az illető a szerzett ismereteire, képességeire támaszkodik, gyanús, hogy „pszichésen rossz közérzetről árulkodhat, melyben az alany az intellektust védekezési mechanizmusként használja.” (124.) Ugyanakkor a gyenge performanciatesztet az is előidézheti, „ha meg vannak győződve róla… hogy nagy nullák!” (125.)
+			- A performanciateszt túlsúlya azt mutatja, hogy az alany rendkívül magas intelligenciával rendelkezik, de ezt nem tudta eddig kibontakoztatni, vagy stressz, szorongás, illetve a teszt során fellépő gátlás megakadályozza, hogy kifejezzék.
+	- A klasszikus intelligenciatesztek az egzisztenciális, verbális, logikai/matematikai és vizuális/térbeli intelligenciát mérik. A WAIS azonban validált teszt, vagyis a WAIS-on elért eredmény hasonló eredményt garantál a klasszikus teszteken is.
+	- A többi intelligenciafajta (érzelmi, zenei, intra- és interperszonális) is lényeges, és a globális intelligencia része.
+- A mérlegkészítés személyes nehézségei
+	- Szorongás
+		- Pofátlan nagyzolásnak tűnik a gondolat, hogy szuperintelligenciát mérjen
+		- Fél a kudarctól, vagyis hogy bebizonyosodik, hogy tényleg problémás
+- A diagnózis felhasználása
+	- Érzelmi következmény: felszabadulás, majd újra szorongás
+		- Felszabadulás a "hamis self" kényszere alól. Az ember keresheti igazán önmagát
+		- Szorongás is felléphet, hogy igaz-e mindez egyáltalán, megbízható-e a teszt stb. **Nem szabad hagyni, hogy a domináns képzetek befolyásoljanak.**
+	- Keressünk segítséget. Pszichológus, terápiás csoport stb.
+	- Tanuljuk meg másoknak tálalni
+		- Ha másképpen tekintünk magunkra, másoknak is megváltozik a nézőpontja
+# 5\. Jellemző személyiségvonások … 146
+"Személyiség váratlan vonásokkal"
+- Akik elfogadják a kereteket
+	- Domináns passzivitás: céljuk a beilleszkedés. Kockázat: depressziós időszakok
+	- Domináns aktivitás: céljuk a siker. Kockázat: hirtelen és érthetetlen visszaesések, melyeket az alany sem ért. Erőszakossá is válhatnak. Ugyanakkor hasonlóan gyorsan talpra is tud állni.
+- Akik nem fogadják el a kereteket ("rebellisek")
+	- Semmivel nem ért egyet, mindent visszautasít. Hiperkritikus.
+		- „A kritikai érzéke annyira éles, hogy semmilyen más értelmezési vagy elemzési módszert nem tart lehetségesnek. Folyamatosan haragban áll a világgal, amely szerinte haszontalan komédia, semmi más; érdektelen, igazságtalan és elviselhetetlen. Így aztán a frusztráció határozza meg a viselkedését. A harag minden életerejét elveszi. Krónikus és bénító elégedetlenség jellemzi. Képtelen egyről a kettőre jutni. Túlságosan levert és csüggedt hozzá.” (151.)
+			- *Ez mintha egy az egyben jellemezne engem.*
+	- Kreatív, forradalmár. „Így a rebellis emberből valódi tehetség válhat!” (151.)
+- A két szélsőség között fokozatos a spektrum.
