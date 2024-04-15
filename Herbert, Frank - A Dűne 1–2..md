@@ -45,12 +45,12 @@ translator: Békés András
 # Második könyv. Muad-Dib
 1. \[2. kötet] 5\. o. #PaulAtreides #LadyJessica Paul és Jessica kijönnek a csillagos ég alá a homokvihar által belepett cirkosátorból, és látják, hogy a közelben lézerharc dúl. Ornitopter közelít feléjük.
 2. 12\. o. #ThufirHawat Hawat mereng a Harkonnen-támadás méretéről, majd a vele levő fremennel beszélget a sebesültekről, majd kiderül, hogy a fremenek élvezik a sardaukarok elleni harcot, és rendkívül sikeresek velük szemben. Egy sebesült, Arkie, meghal, az ő vizét a fremeneknek adja Hawat „a víz köteléke” jeléül. Tanúi annak, hogy egy csapat fremen hogyan szerel le egy csapat sardaukart, és szerzi meg az ornitopterüket, de a harc eszkalálódik, Hawat fremen társát váratlanul megölik, és ő is kap egy tűvető-lövedéket.
-3. 29\. o. #PaulAtreides #LadyJessica #DuncanIdaho #LietKynes Duncan érkezik az ornitopterral; hallják, ahogy a lézerfegyverek miatt felrobban a pajzzsal védett családi atombázis. Kynes levezeti őket egy barlanglaboratóriumba. Paul elmondja ajánlatát: a Császárt meg lehet zsarolni azzal, hogy a Landsraadnak vádiratot ír; cserébe önmagát teteti meg császárnak (a Császárnak nincs fiúgyermeke), és ezzel a hatalommal éri el, hogy az Arrakis élhető bolygóvá váljon. Kynesszal kölcsönös hűséget fogadnak egymásnak. A Harkonnenek megtámadják a barlangot; egy vaksötét labirintuson át Paul és Jessica kijut egy elrejtett ornitopterhez. Ezzel felszállnak, de üldözésbe veszik ezt is.
-4. 48\. o.
-5. 64\. o.
-6. 86\. o.
-7. 95\. o.
-8. 103\. o.
+3. 29\. o. #PaulAtreides #LadyJessica #DuncanIdaho #LietKynes Duncan érkezik az ornitopterral; hallják, ahogy a lézerfegyverek miatt felrobban a pajzzsal védett családi atombázis. Kynes levezeti őket egy barlanglaboratóriumba. Paul elmondja ajánlatát: a Császárt meg lehet zsarolni azzal, hogy a Landsraadnak vádiratot ír; cserébe önmagát teteti meg császárnak (a Császárnak nincs fiúgyermeke), és ezzel a hatalommal éri el, hogy az Arrakis élhető bolygóvá váljon. Kynesszal kölcsönös hűséget fogadnak egymásnak. A Harkonnenek megtámadják a barlangot; egy vaksötét labirintuson át Paul és Jessica kijut egy elrejtett ornitopterhez. Ezzel felszállnak, de üldözésbe veszik ezt is. Homokviharba repülve menekülnek meg.
+4. 48\. o. #IakinNefud #VladimirHarkonnen #GlossuRabbanHarkonnen Harkonnen báró megbízza Nefudot Kynes meggyilkolásával, és elhatározza, hogy Hawattal pótolja DeVriest a mentáti pozícióban. Rabbant megbízza az Arrakis fölötti uralkodással, csak bevételt és könyörtelenséget vár tőle – a fremenekben nem lát semmi veszélyt, míg az Alsóbb Házak városokban lakó tagjaiban igen.
+5. 64\. o. #PaulAtreides #LadyJessica Paul és Jessica kiér a homokviharból, de az ornitopter hibája miatt leszállnak a sivatagban. Egy sziklagerincen haladnak, majd egy hasadékba húzódnak a nappali alvásra, de Jessicát és a csomagot kis híján elnyeli a lezúduló homok. 
+6. 86\. o. #GurneyHalleck #StabanTuek Staban Tuek és Gurney Halleck beszélgetnek a bosszúról, és megegyeznek, hogy segítik egymást. Halleck dalt énekel egy haldoklónak.
+7. 95\. o. #PaulAtreides #LadyJessica Paul és Jessica egy doboló segítségével átkelnek a sziklahasadékból egy közeli ökológiai kísérleti állomásra, ahol fremenek támadják meg őket.
+8. 103\. o. #LietKynes Kynest a Harkonnenek kitették a sivatagban eszköztelenül. Kábulatában az apja prédikációját hallja a bolygó ökológiájának átalakításáról. Már mozdulni sem tud az erőtlenségtől, amikor a homok alatt levő fűszerkovász felrobban, és a sivatag maga alá temeti.
 9. 120\. o.
 10. 136\. o.
 11. 149\. o.
