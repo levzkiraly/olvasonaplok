@@ -6,6 +6,7 @@ publisher: Kozmosz Könyvek
 place: Budapest
 year: "1976"
 edition: "2"
+language: Hungarian
 startDate: 2024-03-27
 endDate: 2024-04-03
 ---

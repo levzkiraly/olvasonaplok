@@ -6,9 +6,8 @@ year: "1994"
 isbn: 963-14-1973-8
 isbn-13: 978-963-14-1973-3
 language: Hungarian
+startDate: 2023-06-04
 ---
-Elkezdtem: 2023. 06. 04.
-
 Eleinte csak apró részleteket, idézeteket kezdtem el kijegyzetelni, de ez egyszerűen túl gazdag ahhoz, hogy ne álljak meg minden apró szövegegységen.
 ## Egy kékharisnya följegyzéseiből
 - A tárgy dicsérete … 9

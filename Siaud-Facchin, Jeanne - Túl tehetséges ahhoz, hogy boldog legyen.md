@@ -6,6 +6,7 @@ place: Budapest
 publisher: Park Könyvkiadó
 year: "2019"
 isbn-13: 978-963-355-492-0
+language: Hungarian
 ---
 # 1\. Definíció … 10
 - "Mit jelent, ha valaki szuperintelligens?"
