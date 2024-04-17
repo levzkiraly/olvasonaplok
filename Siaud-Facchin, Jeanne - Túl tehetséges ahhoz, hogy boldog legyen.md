@@ -394,3 +394,12 @@ Véleményem szerint a szakmabeliek hajlamosak lehetnek az utóbbival azonosíta
 Mindez kérdéseket vet fel az intelligencia természetére vonatkozóan is: hogy lehet diffúz gondolkodással megoldalni egy IQ-tesztet? Mi köze a kreativitásban megjelenő intuíciónak az intelligenciában (mintakeresésben) megjelenőhöz? A könyv erre nem tér ki. Beszél azonban a WAIS-mérésről, amely az intelligencia tizenegy tényezőjét méri. Ezeket nem részletezi, de beszél arról, hogy a tényezőket két csoportra lehet osztani, a verbális ("szerzett") intelligenciát és performanciát ("fluid", vagy a saját fenti pongyola kifejezésem szerint a "spontán" intelligenciát) leíró tényezőkre. Mindezekből annyit tudtam levonni, hogy az intelligencia maga egy rendkívül ködös fogalom, amiről mindenkinek van egy jól bejáratott sejtése, miközben a háttérben rendkívül sokféle mechanizmus rendszere húzódik meg. Mindenkinek hasznos lenne, ha erről többet tudnánk, és nem úgy állnánk egy-egy kiugró teljesítményű emberhez, hogy "ez egy zseni, akkor neki biztos minden úgy megy, mint a karikacsapás" – mert sajnos nem, sőt.
 
 Egy szó mint száz, a könyvet annak ajánlom, aki a leírásból (vagy a könyvről szóló interjúkból, cikkekből, amiket az interneten össze lehet olvasni) egy kicsit is magára ismer. Fontos, hogy a "szuperintelligensek", akárkik is legyenek, kiegyensúlyozott önismeretre jussanak, és olyan tanácsokat, visszaigazolásokat kapjanak, amik átlendítik őket a nehézségeikből fakadó kihívásokon.
+
+# Jegyzetek
+
+Dunning-Kruger-hatás: ehhez hasonló, talán nagyon is releváns
+
+220: "Hogyan érthetnénk meg a felfoghatatlant?" 
+- A gnosztikus mítosz (Szofía bukása) mint a szup.int. ember tragédiájának mítosza?
+- a gn. vallást szup.int. ember találta ki?
+- NB: Jézus is szup.int. volt
