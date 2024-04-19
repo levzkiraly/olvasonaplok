@@ -71,4 +71,14 @@ Történet Adam Bates *ranger*ről, akinek egy taposóakna miatt amputálni kell
 2014 májusa
 A fenti tíz pont rövid összefoglalása – ez volt az eredeti változat, melyet hosszan megírt könyvben.
 # Értékelés
+Egy nagyszerű kis könyv, ami elgondolkodtat az élet legfontosabb kérdésein. Egy amerikai katona írta, aki eljutott a hierarchia csúcsára: személyesen felügyelte az amerikai fogságban tartott Szaddám Husszeint, visszavonulásakor négycsillagos tábornokként az USA Különleges Hadműveleti erőinek parancsnoka volt.
 
+Amerikai, és ennek itt az előnyeit élvezzük. A könyv könnyen olvasható, sztorizós, de minden fejezet végén levonja a tanulságot, ami többnyire igen ütős is. És katona, vagyis nem beszél feleslegesen. A könyv rövid – nem nagy formátum, viszonylag nagy betűméret, szellős sorköz, egy fejezet elolvasása 5-10 percet vesz igénybe, tehát egy délután elolvasható az egész –, ugyanakkor a fejezetek szigorúan követik ugyanazt a sémát: sztori a kiképzésről, sztori az éles bevetések világából, tanulság. De ez is megkönnyíti az olvasást, a mondanivaló tiszta és világos.
+
+A könyv megtanít, hogy az ágy bevetése miért jó szimbóluma az elvégzett feladatoknak {{(mert nem nagy dolog, de edzi a személyiséget, este lefekvéskor pedig számvetésre késztet)}}; hangsúlyozza a barátok, az összefogás fontosságát, és több oldalról is megközelíti azt a kellemetlen tényt, hogy az élet tele van rettenetes dolgokkal. Bátorít és inspirál, miközben felkészít rá, hogy a sorsunk előbb-utóbb igazságtalan fordulatokat is hoz. Szembesít vele, hogy mindnyájan hibázunk, ezt el kell fogadni, és tanulni belőle – számomra már-már megható volt, hogy ez a top officer hogyan ecsetelte a különböző melléfogásait újonckorából és a karrierje későbbi időszakából egyaránt. Ugyanakkor lelkesítő fejezetek szólnak arról, hogy merjük feszegetni a saját határainkat, és győzzük le a visszatartó szorongásokat magunkban.
+
+Voltaképpen arról szól a könyv, hogy az életnak azzal a kellemetlen oldalához, amit a világ legjobb hadseregének egyik legjobb vezető embere sem képes kiküszöbölni, hogyan állhatunk hozzá. Önfejlesztéssel, kitartással és megértéssel.
+
+Amerikai mivoltának zavaróbb is kibukik egyszer-kétszer, elsősorban a Szaddám Husszeint érintő bekezdésekben. Itt hajlik rá, hogy olcsó tipizálásba tud fulladni. De ki tudja, lehet, hogy igaza van, és mi, emberek vagyunk ilyen tipikusak.
+
+Aki inspirációra vágyik a nehézségek közepette, vagy aki fel szeretne készülni a jövő nehézségeire, annak őszintén ajánlom.
