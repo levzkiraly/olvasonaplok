@@ -77,8 +77,8 @@ Amerikai, és ennek itt az előnyeit élvezzük. A könyv könnyen olvasható, s
 
 A könyv megtanít, hogy az ágy bevetése miért jó szimbóluma az elvégzett feladatoknak {{(mert nem nagy dolog, de edzi a személyiséget, este lefekvéskor pedig számvetésre késztet)}}; hangsúlyozza a barátok, az összefogás fontosságát, és több oldalról is megközelíti azt a kellemetlen tényt, hogy az élet tele van rettenetes dolgokkal. Bátorít és inspirál, miközben felkészít rá, hogy a sorsunk előbb-utóbb igazságtalan fordulatokat is hoz. Szembesít vele, hogy mindnyájan hibázunk, ezt el kell fogadni, és tanulni belőle – számomra már-már megható volt, hogy ez a top officer hogyan ecsetelte a különböző melléfogásait újonckorából és a karrierje későbbi időszakából egyaránt. Ugyanakkor lelkesítő fejezetek szólnak arról, hogy merjük feszegetni a saját határainkat, és győzzük le a visszatartó szorongásokat magunkban.
 
-Voltaképpen arról szól a könyv, hogy az életnak azzal a kellemetlen oldalához, amit a világ legjobb hadseregének egyik legjobb vezető embere sem képes kiküszöbölni, hogyan állhatunk hozzá. Önfejlesztéssel, kitartással és megértéssel.
+Voltaképpen arról szól a könyv, hogy az életnek ahhoz a kellemetlen oldalához, amit a világ legjobb hadseregének egyik legjobb vezető embere sem képes kiküszöbölni, hogyan állhatunk hozzá. Önfejlesztéssel, kitartással és megértéssel.
 
-Amerikai mivoltának zavaróbb is kibukik egyszer-kétszer, elsősorban a Szaddám Husszeint érintő bekezdésekben. Itt hajlik rá, hogy olcsó tipizálásba tud fulladni. De ki tudja, lehet, hogy igaza van, és mi, emberek vagyunk ilyen tipikusak.
+Amerikai mivoltának zavaróbb is kibukik egyszer-kétszer, elsősorban a Szaddám Husszeint érintő bekezdésekben. Itt hajlik rá, hogy olcsó tipizálásba fulladjon. De ki tudja, lehet, hogy igaza van, és mi, emberek vagyunk ilyen tipikusak.
 
 Aki inspirációra vágyik a nehézségek közepette, vagy aki fel szeretne készülni a jövő nehézségeire, annak őszintén ajánlom.
