@@ -51,12 +51,12 @@ translator: Békés András
 6. 86\. o. #GurneyHalleck #StabanTuek Staban Tuek és Gurney Halleck beszélgetnek a bosszúról, és megegyeznek, hogy segítik egymást. Halleck dalt énekel egy haldoklónak.
 7. 95\. o. #PaulAtreides #LadyJessica Paul és Jessica egy doboló segítségével átkelnek a sziklahasadékból egy közeli ökológiai kísérleti állomásra, ahol fremenek támadják meg őket.
 8. 103\. o. #LietKynes Kynest a Harkonnenek kitették a sivatagban eszköztelenül. Kábulatában az apja prédikációját hallja a bolygó ökológiájának átalakításáról. Már mozdulni sem tud az erőtlenségtől, amikor a homok alatt levő fűszerkovász felrobban, és a sivatag maga alá temeti.
-9. 120\. o.
-10. 136\. o.
-11. 149\. o.
-12. 170\. o.
-13. 189\. o.
-14. 218\. o.
+9. 120\. o. #PaulAtreides #LadyJessica #Stilgar #Jamis #Csani A fremenek vezetője, Stilgar magukkal akarja vinni Pault, Jessicának viszont csak a vizét akarja. Jessica ártalmatlanná teszi, míg Paul egy sziklahasadékba bújik; így tárgyalják meg a kölcsönös bizalom feltételeit: Lady Jessica megtanítja a fremeneknek a harci „bűvtudását”, cserébe életben hagyják. Paul találkozik Csanival. Megindulnak katonai rendben a nappali szállás felé.
+10. 136\. o. #PaulAtreides #LadyJessica #Stilgar #Csani A csapat megérkezik a Gerincbarlangba. Jessica és Stilgar beszélget a fremenek céljáról, életmódjáról, törzsbeli szerepükről – Jessica lenne az új Tisztelendő Anya, a Sayyadina – és a próféciákról. Paulnak látomása van, melyben látja, hogy erőszakos konfliktus vár rá, melyben meghalhat.
+11. 149\. o. #LadyJessica #PaulAtreides #Stilgar #Jamis Jamis kihívja maga ellen Pault, hogy próbára tegye Jessica igazát. Stilgar próbálja elterelni a haragját, de hiába. Jessica megbabonázná, de Jamis kikéri a csend törvényét. Jamis és Paul küzdeni kezd, végül Paulnak sikerül végeznie vele – először öl embert. Elnevezik Usulnak, ő pedig a Paul Muad-Dib nevet választja.
+12. 170\. o. #LadyJessica #PaulAtreides #Csani #Stilgar Paul elfogadja Jamis vizét. A törzs megtartja Jamis halotti szertartását, Paul is a barátjának vallja magát, és elveszi Jamis balisetét. A törzs hozzáadja Jamis vizét a földalatti víztározóhoz. Paul énekel Csaninak.
+13. 189\. o. #FeydRauthaHarkonnen #VladimirHarkonnen #FenringGróf #LadyFenring A Giedi Prime-on, Harkóban, Feyd-Rautha a tizenhetedik születésnapján játékban megöli a századik gladiátorát. Fenring gróf mint a Császár megfigyelője négyszemközt beszél a báróval – ebből megtudjuk, hogy a Császár ellenőrizni akarja a bárót; hogy a báró börtönbolygónak szánja az Arrakist; illetve hogy Thufir Hawat Harkonnen-Mentátként történt megkímélését a Császár elfogadhatatlannak tartja. A küzdelem a gladiátorral nem egészen a tervek szerint megy, de Feyd-Rautha győz. A Fenring-házaspár már Feyd-Rautha elcsábítását tervezi.
+14. 218\. o. #Stilgar #PaulAtreides #Csani #Forak #LadyJessica #Harah A csapat eléri a sziecset. Megtudják, hogy Liet-Kynes meghalt. Paul Harah-t, Jamis özvegyét szolgálónak választja. Harah elvezeti a yalijához. Később találkozik Harah gyermekeivel.
 15. 232\. o.
 # Harmadik könyv. A próféta
 1. 255\. o.
@@ -87,16 +87,23 @@ translator: Békés András
 - #GurneyHalleck fegyvermester, balisetes-énekes
 - #DuncanIdaho vívómester
 - #YuehWellington orvos, titkosügynök
-- #LietKynes császári planetológus (ökológus), fremen
-- #Stilgar fremen főnök
-- #ShadoutMapes fremen, Lady Jessica házvezetőnője
 - #LingarBewt vízgyáros mágnás
 - #SuSu bankár, a Ligabank képvselője, a Vízárusok Szövetségének pénzügyi tanácsadója
 - #EsmarTuek csempész
+- #StabanTuek Esmar Tuek fia, csempész
+- #ShadoutMapes fremen, Lady Jessica házvezetőnője
+- #LietKynes császári planetológus (ökológus), fremen
+- #Stilgar fremen törzsfőnök
+- #Jamis fremen katona
+- #Csani Liet-Kynes lánya
+- #Forak fremen Tabr-sziecsben
+- #Harah Jamis özvegye
 - #VladimirHarkonnen báró
 - #FeydRauthaHarkonnen a báró unokaöccse
+- #GlossuRabbanHarkonnen „Vadállat”, a báró idősebb unokaöccse
 - #PiterDeVries Mentát a Harkonnenek szolgálatában
 - #UmmanKudu a Harkonnen báró személyi őrségének parancsnoka
+- #IakinNefud Umman Kudu halála után a Harkonnen báró őrparancsnoka
 - #GaiusHelenMohiam Tisztelendő Anya, Bene Gesserit
 # Arab fordítás
 فرانك هربرت: كثيب, كويت: دار كلمات (Kuwait: Dar Kalemat), 2021, ISBN 9789921730746 (Fordító: نادر أسامة, Nader Osama)
