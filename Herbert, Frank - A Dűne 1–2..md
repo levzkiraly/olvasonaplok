@@ -57,7 +57,7 @@ translator: Békés András
 12. 170\. o. #LadyJessica #PaulAtreides #Csani #Stilgar Paul elfogadja Jamis vizét. A törzs megtartja Jamis halotti szertartását, Paul is a barátjának vallja magát, és elveszi Jamis balisetét. A törzs hozzáadja Jamis vizét a földalatti víztározóhoz. Paul énekel Csaninak.
 13. 189\. o. #FeydRauthaHarkonnen #VladimirHarkonnen #FenringGróf #LadyFenring A Giedi Prime-on, Harkóban, Feyd-Rautha a tizenhetedik születésnapján játékban megöli a századik gladiátorát. Fenring gróf mint a Császár megfigyelője négyszemközt beszél a báróval – ebből megtudjuk, hogy a Császár ellenőrizni akarja a bárót; hogy a báró börtönbolygónak szánja az Arrakist; illetve hogy Thufir Hawat Harkonnen-Mentátként történt megkímélését a Császár elfogadhatatlannak tartja. A küzdelem a gladiátorral nem egészen a tervek szerint megy, de Feyd-Rautha győz. A Fenring-házaspár már Feyd-Rautha elcsábítását tervezi.
 14. 218\. o. #Stilgar #PaulAtreides #Csani #Forak #LadyJessica #Harah A csapat eléri a sziecset. Megtudják, hogy Liet-Kynes meghalt. Paul Harah-t, Jamis özvegyét szolgálónak választja. Harah elvezeti a yalijához. Később találkozik Harah gyermekeivel.
-15. 232\. o.
+15. 232\. o. #LadyJessica #Stilgar #PaulAtreides #Ramallo Stilgar bejelenti a nagygyűlésen, hogy aznap éjjel elhagyják a sziecset, ezért Ramallo Tisztelendő Anya elvégzi Jessicán a belső átváltoztatást, illetve előtte biztonsági megfontolásból Csanit sayyadinává avatja. Csani ad az Élet Vizéből Jessicának. Jessica pszichokinesztéziával semlegesíti a metilgyököket a szerben, és telepatikusan egyesül Ramallo Tisztelendő Anyával, aki minden tapasztalatát áttölti Jessica tudatába, bár ez a magzatára végzetes hatással lehet. A Tisztelendő Anya elhuny, de emlékei feltárják Jessica előtt a fremenek múltját és történelmi dühét. Paul iszik a semlegesített méregből. Csani és Paul meglátják a közös jövőjüket, és egymásra találnak.
 # Harmadik könyv. A próféta
 1. 255\. o.
 2. 267\. o.
@@ -98,6 +98,7 @@ translator: Békés András
 - #Csani Liet-Kynes lánya
 - #Forak fremen Tabr-sziecsben
 - #Harah Jamis özvegye
+- #Ramallo Tisztelendő Anya Stilgar törzsében
 - #VladimirHarkonnen báró
 - #FeydRauthaHarkonnen a báró unokaöccse
 - #GlossuRabbanHarkonnen „Vadállat”, a báró idősebb unokaöccse
