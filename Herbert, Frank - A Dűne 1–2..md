@@ -55,14 +55,14 @@ translator: Békés András
 10. 136\. o. #PaulAtreides #LadyJessica #Stilgar #Csani A csapat megérkezik a Gerincbarlangba. Jessica és Stilgar beszélget a fremenek céljáról, életmódjáról, törzsbeli szerepükről – Jessica lenne az új Tisztelendő Anya, a Sayyadina – és a próféciákról. Paulnak látomása van, melyben látja, hogy erőszakos konfliktus vár rá, melyben meghalhat.
 11. 149\. o. #LadyJessica #PaulAtreides #Stilgar #Jamis Jamis kihívja maga ellen Pault, hogy próbára tegye Jessica igazát. Stilgar próbálja elterelni a haragját, de hiába. Jessica megbabonázná, de Jamis kikéri a csend törvényét. Jamis és Paul küzdeni kezd, végül Paulnak sikerül végeznie vele – először öl embert. Elnevezik Usulnak, ő pedig a Paul Muad-Dib nevet választja.
 12. 170\. o. #LadyJessica #PaulAtreides #Csani #Stilgar Paul elfogadja Jamis vizét. A törzs megtartja Jamis halotti szertartását, Paul is a barátjának vallja magát, és elveszi Jamis balisetét. A törzs hozzáadja Jamis vizét a földalatti víztározóhoz. Paul énekel Csaninak.
-13. 189\. o. #FeydRauthaHarkonnen #VladimirHarkonnen #FenringGróf #LadyFenring A Giedi Prime-on, Harkóban, Feyd-Rautha a tizenhetedik születésnapján játékban megöli a századik gladiátorát. Fenring gróf mint a Császár megfigyelője négyszemközt beszél a báróval – ebből megtudjuk, hogy a Császár ellenőrizni akarja a bárót; hogy a báró börtönbolygónak szánja az Arrakist; illetve hogy Thufir Hawat Harkonnen-Mentátként történt megkímélését a Császár elfogadhatatlannak tartja. A küzdelem a gladiátorral nem egészen a tervek szerint megy, de Feyd-Rautha győz. A Fenring-házaspár már Feyd-Rautha elcsábítását tervezi.
+13. 189\. o. #FeydRauthaHarkonnen #VladimirHarkonnen #FenringGróf #LadyFenring A Giedi Prime-on, Harkóban, Feyd-Rautha a tizenhetedik születésnapján játékban megöli a századik gladiátorát – közben jön rá, hogy Hawat készítette föl, hogy ölje meg őt. Fenring gróf mint a Császár megfigyelője négyszemközt beszél a báróval – ebből megtudjuk, hogy a Császár ellenőrizni akarja a bárót; hogy a báró börtönbolygónak szánja az Arrakist; illetve hogy Thufir Hawat Harkonnen-Mentátként történt megkímélését a Császár elfogadhatatlannak tartja. A küzdelem a gladiátorral nem egészen a tervek szerint megy, de Feyd-Rautha győz. A Fenring-házaspár már Feyd-Rautha elcsábítását tervezi.
 14. 218\. o. #Stilgar #PaulAtreides #Csani #Forak #LadyJessica #Harah A csapat eléri a sziecset. Megtudják, hogy Liet-Kynes meghalt. Paul Harah-t, Jamis özvegyét szolgálónak választja. Harah elvezeti a yalijához. Később találkozik Harah gyermekeivel.
 15. 232\. o. #LadyJessica #Stilgar #PaulAtreides #Ramallo Stilgar bejelenti a nagygyűlésen, hogy aznap éjjel elhagyják a sziecset, ezért Ramallo Tisztelendő Anya elvégzi Jessicán a belső átváltoztatást, illetve előtte biztonsági megfontolásból Csanit sayyadinává avatja. Csani ad az Élet Vizéből Jessicának. Jessica pszichokinesztéziával semlegesíti a metilgyököket a szerben, és telepatikusan egyesül Ramallo Tisztelendő Anyával, aki minden tapasztalatát áttölti Jessica tudatába, bár ez a magzatára végzetes hatással lehet. A Tisztelendő Anya elhuny, de emlékei feltárják Jessica előtt a fremenek múltját és történelmi dühét. Paul iszik a semlegesített méregből. Csani és Paul meglátják a közös jövőjüket, és egymásra találnak.
 # Harmadik könyv. A próféta
-1. 255\. o.
-2. 267\. o.
-3. 279\. o.
-4. 297\. o.
+1. 255\. o. #VladimirHarkonnen #IakinNefud #FeydRauthaHarkonnen A Harkonnen báró letolja Nefudot, amiért nem figyel eléggé Feyd-Rauthára. A ta-báró betoppan, de kiderül, hogy a báró már túl van az unokaöcs sikertelen merényletén, és nagy vérengzést rendez, hogy Feyd-Rauthát megleckéztesse. "Egyezséget" kér Feyd-Rauthától: hogy hagyjon fel a merényletekkel, cserébe nem öli meg őt – továbbá, hogy megmutassa, hogy a ta-bárónak mekkora szüksége van rá – azt adja be neki, hogy Hawat őket akarja felhasználni, hogy bosszút álljon a Császáron.
+2. 267\. o. #ThufirHawat #VladimirHarkonnen Thufir Hawat ráébreszti a bárót, hogy a sardaukarok a Salusa Secundus embertelen körülményei miatt olyan legyőzhetetlen harcosok, továbbá hogy a fremenek nagyságrendekkel többen vannak, mint gondolná. Ráébrednek, hogy a császár kémei Fenring gróf révén már két éve gyűlhetnek az Arrakison, hogy figyeljék, lehet-e a Salusa Secundushoz hasonló börtönbolygót csinálni belőle. Hawat azt javasolja, hogy vegye le a kezét másik unokaöccséről, ezzel növelve a nyomást a fűszertermelésen és így a fremeneken, hogy majd a báró, illetve Feyd-Rautha megmentőként érkezhessen az Arrakisra.
+3. 279\. o. #PaulAtreides #Csani #LadyJessica Paul fűszerálomból ébred, Csani épp végzett egy kihívójával. Jessica vitatkozik Paullal arról, hogy a vallásos színjáték szükséges-e; megszereti Csanit. Csani beszélget Paullal Aliáról, majd Paul nekivág a mester meglovagolásának, a homokhajtó-avatásnak, hogy igazi fremen váljék belőle.
+4. 297\. o. #LadyJessica #Harah #Alia #Tartar Jessica pihen a sziecsben. Harah érkezik Aliával, beszámolnak a Subiaj fia születésénél történt incidensről. Harah aggódik, hogy Jessica terve és Alia révén veszély fenyegeti Pault. Be akarja avatni a közösséget Alia titkába. Alia elmondja, hogyan élte meg az öntudatra ébredést. Elmondják az emlékező szertartást. Tartar hírét hozza, hogy Paul próbatétele kezdődik, és a fiatalok azt követelik, hogy utána győzze le Stilgart – a nők összefognak ez ellen a pazarlás ellen.
 5. 313\. o.
 6. 324\. o.
 7. 350\. o.
@@ -83,6 +83,7 @@ translator: Békés András
 - #PaulAtreides herceg
 - #LadyJessica Paul anyja, Bene Gesserit
 - #LetoAtreides Paul apja
+- #Alia Paul húga, Lady Jessica lánya, aki az anyaméhben Tisztelendő Anya lett
 - #ThufirHawat Mentát
 - #GurneyHalleck fegyvermester, balisetes-énekes
 - #DuncanIdaho vívómester
@@ -97,7 +98,8 @@ translator: Békés András
 - #Jamis fremen katona
 - #Csani Liet-Kynes lánya
 - #Forak fremen Tabr-sziecsben
-- #Harah Jamis özvegye
+- #Harah Jamis özvegye, Paul megörökölt felesége
+- #Tartar Stilgar felesége
 - #Ramallo Tisztelendő Anya Stilgar törzsében
 - #VladimirHarkonnen báró
 - #FeydRauthaHarkonnen a báró unokaöccse
