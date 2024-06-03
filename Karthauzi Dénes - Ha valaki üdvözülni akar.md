@@ -67,9 +67,16 @@ A könyv hozza az Atanáz-hitvallás szövegét liturgikus latin formában, magy
 # Kommentár
 
 1. \[41.] Mi az üdvösség?
-	- „Ő a mindenekfölött szépséges Isten, a lényegileg szép szépség, a végtelen ékesség, akit szemlélni igen gyönyörű, ízlelni igen édes, birtokolni igen élvezetes, mert benne minden lehetségesség eljut a megvalósulásig, minden képességünk természetfölötti módon beteljesedik, és minden vágy úgy teljesül, hogy semmilyen kívánt jó nem hiányozhat örökre, semmilyen utálatos rossz meg nem maradhat.” (41.) \[[moly.hu](https://moly.hu/idezetek/2062657) (saját)]
+	- Ő a mindenekfölött szépséges Isten, a lényegileg szép szépség, a végtelen ékesség, akit szemlélni igen gyönyörű, ízlelni igen édes, birtokolni igen élvezetes, mert benne minden lehetségesség eljut a megvalósulásig, minden képességünk természetfölötti módon beteljesedik, és minden vágy úgy teljesül, hogy semmilyen kívánt jó nem hiányozhat örökre, semmilyen utálatos rossz meg nem maradhat. (41.) \[[moly.hu](https://moly.hu/idezetek/2062657) (saját)]
 2. \[41.] Mi a kárhozat? Örök tűz, éjsötét alvilági tömlöc, örök gyötörtetés.
 3. \[42.] Mi az egy Isten? Első ok, igazság, tiszta létezés, szépség, boldogság, édesség stb. Mi a Szentháromság? Az önnön létét az Igével megosztó Isten, s a teljes természetét a szeretettel megosztó Atya és Fiú. A bölcsesség a Fiú eredendő elve, a szeretet a Léleké; a Fiú az atyai akaratból származik, a Lélek a másik két személytől. A személyes hármassága nem zárja ki az isteni lényegből az egységet, egyszerűséget, mérhetetlenséget, örökkévalóságot és változhatatlanságot, viszont magában foglalja a termékenységet, szeretetet, nagylelkűséget, egyenlőséget, rokonságot, hasonlóságot és elválaszthatatlanságot. Végtelenségükben nincs hozzájuk fogható, ezért csak egyetlen isteni lényeg létezhet, melyben a három személy tökéletesen összeillő, egy és oszthatatlan.
-4. \[46.] 
+4. \[46.] Miért kell több személyről beszélni? Mert Isten önközlése és szeretete feltételezi a különböző személyek létét – a tőle született Fiúét és a kettejük által lehelt Szentlélekét. Az Atya tulajdonsága a nemzés, ő nem-született, nem kap semmit. A Fiú tulajdonsága a születés, ő csak az Atyától van. A Szentlélek tulajdonsága a származás, ő egyszerre az Atyától és a Fiútól van. Ezek nem kegyelmi ajándékként kapják, hanem az isteni természet sajátosságából, lényeg szerint. A lényeg (substantia) ugyanis azonos.
+5. \[48.] Még a személyek különbözőségéről. Lérins-i Szent Vince szavaival (lábjegyzet hozza a *Commonitorium* 13-ból, összehasonlításképpen Krisztus kettős természetével): 
+	- Istenben egy lényeg van, de három személy; Krisztusban két lényeg, de csak egy személy. A Szentháromságban, van másvalaki és másvalaki, de nincs másvalami és másvalami; a Megváltóban van másvalami és másvalami, de nincs másvalaki és másvalaki. (*Patrologia Latina* 50:655)
+
+"Isten önmagát teljesen közli a tőle született Fiúval" (46.) – az Atya!
+
 
 Istent már nem a bibliai jelzőkkel, nem a szabadítástörténetekkel jellemzi, hanem görög filozófián pallérozott elmével a testi örömökhöz hasonló beteljesedéshez hasonlítja.
+Isten „édes” – a bibliafordításokban látványosan a KNV használja ezt a szót, bár a Neo-Vulgatával való összevetés figyelmeztet, hogy ebben a "dulcis", "suavis", ill. a főnévi "voluptas" szavak mosódnak össze.
+Érdekes látni, hogy a filozófiai megalapozású teológiájába hány és hány helyen illeszkednek a bibliai hivatkozásai.
