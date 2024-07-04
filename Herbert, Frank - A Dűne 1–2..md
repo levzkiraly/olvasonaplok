@@ -60,16 +60,16 @@ translator: Békés András
 15. 232\. o. #LadyJessica #Stilgar #PaulAtreides #Ramallo Stilgar bejelenti a nagygyűlésen, hogy aznap éjjel elhagyják a sziecset, ezért Ramallo Tisztelendő Anya elvégzi Jessicán a belső átváltoztatást, illetve előtte biztonsági megfontolásból Csanit sayyadinává avatja. Csani ad az Élet Vizéből Jessicának. Jessica pszichokinesztéziával semlegesíti a metilgyököket a szerben, és telepatikusan egyesül Ramallo Tisztelendő Anyával, aki minden tapasztalatát áttölti Jessica tudatába, bár ez a magzatára végzetes hatással lehet. A Tisztelendő Anya elhuny, de emlékei feltárják Jessica előtt a fremenek múltját és történelmi dühét. Paul iszik a semlegesített méregből. Csani és Paul meglátják a közös jövőjüket, és egymásra találnak.
 # Harmadik könyv. A próféta
 1. 255\. o. #VladimirHarkonnen #IakinNefud #FeydRauthaHarkonnen A Harkonnen báró letolja Nefudot, amiért nem figyel eléggé Feyd-Rauthára. A ta-báró betoppan, de kiderül, hogy a báró már túl van az unokaöcs sikertelen merényletén, és nagy vérengzést rendez, hogy Feyd-Rauthát megleckéztesse. "Egyezséget" kér Feyd-Rauthától: hogy hagyjon fel a merényletekkel, cserébe nem öli meg őt – továbbá, hogy megmutassa, hogy a ta-bárónak mekkora szüksége van rá – azt adja be neki, hogy Hawat őket akarja felhasználni, hogy bosszút álljon a Császáron.
-2. 267\. o. #ThufirHawat #VladimirHarkonnen Thufir Hawat ráébreszti a bárót, hogy a sardaukarok a Salusa Secundus embertelen körülményei miatt olyan legyőzhetetlen harcosok, továbbá hogy a fremenek nagyságrendekkel többen vannak, mint gondolná. Ráébrednek, hogy a császár kémei Fenring gróf révén már két éve gyűlhetnek az Arrakison, hogy figyeljék, lehet-e a Salusa Secundushoz hasonló börtönbolygót csinálni belőle. Hawat azt javasolja, hogy vegye le a kezét másik unokaöccséről, ezzel növelve a nyomást a fűszertermelésen és így a fremeneken, hogy majd a báró, illetve Feyd-Rautha megmentőként érkezhessen az Arrakisra.
+2. 267\. o. #ThufirHawat #VladimirHarkonnen Thufir Hawat ráébreszti a bárót, hogy a sardaukarok a Salusa Secundus embertelen körülményei miatt olyan legyőzhetetlen harcosok, továbbá hogy a fremenek nagyságrendekkel többen vannak, mint gondolná. Ráébrednek, hogy a Császár kémei Fenring gróf révén már két éve gyűlhetnek az Arrakison, hogy figyeljék, lehet-e a Salusa Secundushoz hasonló börtönbolygót csinálni belőle. Hawat azt javasolja, hogy vegye le a kezét másik unokaöccséről, ezzel növelve a nyomást a fűszertermelésen és így a fremeneken, hogy majd a báró, illetve Feyd-Rautha megmentőként érkezhessen az Arrakisra.
 3. 279\. o. #PaulAtreides #Csani #LadyJessica Paul fűszerálomból ébred, Csani épp végzett egy kihívójával. Jessica vitatkozik Paullal arról, hogy a vallásos színjáték szükséges-e; megszereti Csanit. Csani beszélget Paullal Aliáról, majd Paul nekivág a mester meglovagolásának, a homokhajtó-avatásnak, hogy igazi fremen váljék belőle.
 4. 297\. o. #LadyJessica #Harah #Alia #Tartar Jessica pihen a sziecsben. Harah érkezik Aliával, beszámolnak a Subiaj fia születésénél történt incidensről. Harah aggódik, hogy Jessica terve és Alia révén veszély fenyegeti Pault. Be akarja avatni a közösséget Alia titkába. Alia elmondja, hogyan élte meg az öntudatra ébredést. Elmondják az emlékező szertartást. Tartar hírét hozza, hogy Paul próbatétele kezdődik, és a fiatalok azt követelik, hogy utána győzze le Stilgart – a nők összefognak ez ellen a pazarlás ellen.
-5. 313\. o.
-6. 324\. o.
-7. 350\. o.
-8. 370\. o.
-9. 385\. o.
-10. 399\. o.
-11. 414\. o.
+5. 313\. o. #PaulAtreides #Stilgar Paul meglovagolja a mestert. Stilgar leminősíti, de azért mesterhajtóvá avatja. Paul délnek irányítja a mestert, hogy meglátogassa a családját, a szomszédos Harkonnenek megtámadása helyett. Stilgar engedelmes neki, de tart attól, hogy párbajoznia kell majd vele. Pihenőhelyük elérésekor egy csempészornitoptert pillantanak meg.
+6. 324\. o. #GurneyHalleck #PaulAtreides #Stilgar #Csani #Korba #Aramsam Gurney csempészbandája egy déli területen fűszert talál, de rajtuk ütnek a fremenek. Paul bemutatja neki „a sivatagi erőt”, és felfedi, hogy ő Muad-Dib. Gurney csapatából az álcázott sardaukarok fegyverrel támadnak, de leverik őket, kettőt foglyul ejtenek. Paul meggyőzi Stilgart, hogy a törzsnek nem érdeke őt párbajban legyőznie. Paul délre küldi Csanit, hogy küldje el az anyját hozzá.
+7. 350\. o. #LadyJessica #PaulAtreides #Stilgar #GurneyHalleck Paul beszédet tart a Madárbarlangban a fiatal fremeneknek arról, hogy nem szolgálja a törzs javát, ha megöli Stilgart. Felveszi a hercegi gyűrűt, hogy uralmát meghirdesse. Stilgart vezérévé avatja. Később Paul be akarja mutatni Jessicának Gurneyt, de az rátámad, nehezen győzik meg róla, hogy nem ő volt az áruló. Paul elhatározza, hogy iszik az Élet Vizéből.
+8. 370\. o. #Csani #Otejm #PaulAtreides Csani érkezik a Madárbarlangba Jessicához, megtudja, hogy Paul már három hete félholtan fekszik. Csani rájön, hogy mi történt, de nincs rá szükség, hogy Jessica átváltoztassa a Vizet, Paul felébred. Jessica neheztel rá, de Paul megmutatja neki, hogy ő belépett oda is, ahová a Tisztelendő Anyák is félnek belépni, mert benne egyensúlyban van az elvevő és az adakozó erő. Beszámol látomásáról, hogy a Liga és a Császár már a bolygó körül várakozik. Megbízza anyját, hogy a Víz átváltoztatásával készítse el a Halál Vizét, ami el tudja pusztítani a fűszert.
+9. 385\. o. #Stilgar #PaulAtreides #GurneyHalleck Stilgar, Paul és Gurney felkészülnek a császári sardaukarlégiók megtámadására. Egy érkező homokviharra időzítve felrobbantják a pajzsfalat. Közben zavaros üzenetet kapnak, amiből kiderül, hogy Alia fogságba esett, és a kis Leto meghalt.
+10. 399\. o. #VladimirHarkonnen #ShaddamIV #GaiusHelenMohiam #Alia A Padisah Császár megérkezik, és kérdőre vonja a Harkonnen bárót, amiért nem ismerte ki az Arrakist és a fremeneket. Végül azzal vádolja, hogy Leto Atreidesszel is csak megrendezte a konfliktust. Alia kioktatja a Tisztelendő Anyával együtt. A Császár fenyegetőzik, de közben megjön a homokvihar, a felfordulás közben Alia végez a Harkonnen báróval. A támadás is odaér, a Császárt a hajójába menekítik.
+11. 414\. o. #PaulAtreides #GurneyHalleck #Stilgar #LadyJessica #Csani #ShaddamIV #ThufirHawat #GaiusHelenMohiam #Irulan #FeydRauthaHarkonnen #FenringGróf Paul elfoglalja a helytartói palotát. Jessica rácsodálkozik Paul kegyetlen gondolkodására. megérkezik Csani is, és bevonul a császár és kísérete. Thufir Hawat önmagával végez Paul helyett, leleplezve a Császárt. Paul megüzeni a Ligának, hogy véget vet a fűszerkitermelésnek, ha nem fogadják el a feltételeit. Paul feltárja a Bene Gesserit titkos tervét. Bejelenti igényét, hogy elvegye Irulant feleségül. Közben Feyd-Rautha felemlegeti a kanly-t, s kihívja Pault, aki párharcban legyőzi őt. A Császár Fenring grófot kéri föl, hogy végezzen Paullal, de ő a Paul iránti rokonszenvből nemet mond. Paul elveszi Irulant, és meghatározza mindenki sorsát.
 # Függelékek
 1. függelék: A Dűne környezettana … 453. o.
 2. függelék: A Dűne vallása … 465. o.
@@ -80,7 +80,7 @@ translator: Békés András
 # Jegyzetek a térképhez
 515\. o.
 # Szereplők
-- #PaulAtreides herceg
+- #PaulAtreides herceg, fremen nevén Muad-Dib, Usul
 - #LadyJessica Paul anyja, Bene Gesserit
 - #LetoAtreides Paul apja
 - #Alia Paul húga, Lady Jessica lánya, aki az anyaméhben Tisztelendő Anya lett
@@ -101,6 +101,8 @@ translator: Békés András
 - #Harah Jamis özvegye, Paul megörökölt felesége
 - #Tartar Stilgar felesége
 - #Ramallo Tisztelendő Anya Stilgar törzsében
+- #Korba fremen
+- #Otejm fremen
 - #VladimirHarkonnen báró
 - #FeydRauthaHarkonnen a báró unokaöccse
 - #GlossuRabbanHarkonnen „Vadállat”, a báró idősebb unokaöccse
@@ -108,6 +110,11 @@ translator: Békés András
 - #UmmanKudu a Harkonnen báró személyi őrségének parancsnoka
 - #IakinNefud Umman Kudu halála után a Harkonnen báró őrparancsnoka
 - #GaiusHelenMohiam Tisztelendő Anya, Bene Gesserit
+- #FenringGróf 
+- #LadyFenring Lady Margot
+- #Aramsam a Császári Sardaukar Alakulat kapitánya
+- #ShaddamIV IV. Shaddam Padisah Császár
+- #Irulan IV. Shaddam lánya, Bene Gesserit
 # Arab fordítás
 فرانك هربرت: كثيب, كويت: دار كلمات (Kuwait: Dar Kalemat), 2021, ISBN 9789921730746 (Fordító: نادر أسامة, Nader Osama)
 # Filmkritika
