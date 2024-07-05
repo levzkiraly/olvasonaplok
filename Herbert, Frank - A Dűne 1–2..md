@@ -11,6 +11,8 @@ isbn (2. volume): 963-211-766-2
 isbn (set): 963-211-767-0
 language: Hungarian
 translator: Békés András
+startDate: 2024-03-01
+endDate: 2024-06-28
 ---
 # Első könyv. A Dűne
 1. \[1. kötet] 5\. o. #PaulAtreides #LadyJessica #GaiusHelenMohiam Paul kiállja a gom-dzsabbar próbáját.
@@ -71,14 +73,31 @@ translator: Békés András
 10. 399\. o. #VladimirHarkonnen #ShaddamIV #GaiusHelenMohiam #Alia A Padisah Császár megérkezik, és kérdőre vonja a Harkonnen bárót, amiért nem ismerte ki az Arrakist és a fremeneket. Végül azzal vádolja, hogy Leto Atreidesszel is csak megrendezte a konfliktust. Alia kioktatja a Tisztelendő Anyával együtt. A Császár fenyegetőzik, de közben megjön a homokvihar, a felfordulás közben Alia végez a Harkonnen báróval. A támadás is odaér, a Császárt a hajójába menekítik.
 11. 414\. o. #PaulAtreides #GurneyHalleck #Stilgar #LadyJessica #Csani #ShaddamIV #ThufirHawat #GaiusHelenMohiam #Irulan #FeydRauthaHarkonnen #FenringGróf Paul elfoglalja a helytartói palotát. Jessica rácsodálkozik Paul kegyetlen gondolkodására. megérkezik Csani is, és bevonul a császár és kísérete. Thufir Hawat önmagával végez Paul helyett, leleplezve a Császárt. Paul megüzeni a Ligának, hogy véget vet a fűszerkitermelésnek, ha nem fogadják el a feltételeit. Paul feltárja a Bene Gesserit titkos tervét. Bejelenti igényét, hogy elvegye Irulant feleségül. Közben Feyd-Rautha felemlegeti a kanly-t, s kihívja Pault, aki párharcban legyőzi őt. A Császár Fenring grófot kéri föl, hogy végezzen Paullal, de ő a Paul iránti rokonszenvből nemet mond. Paul elveszi Irulant, és meghatározza mindenki sorsát.
 # Függelékek
-1. függelék: A Dűne környezettana … 453. o.
-2. függelék: A Dűne vallása … 465. o.
-3. függelék: Jelentés a Bene Gesserit indítékairól és céljairól … 477. o.
+1. függelék: A Dűne környezettana … 453. o. #PardotKynes #LietKynes Az Arrakis ökológiáján Pardot Kynes kezdett dolgozni. Fremen nővel házasodott, gyermekük Liet-Kynes. Egyszer alkalmi Harkonnen-fremen verekedésben megölte a Harkonneneket, ezért a fremenek elvitték maguk közé; később ki akarták végeztetni, de a merénylő, Uliet, öngyilkos lett. Ettől kezdve megdönthetetlen tekintélye lett a fremenek közt. Kutatócsoportokat hozott létre, s megfigyelte a Dűne életciklusát, a kismester - shai-hulud - homokplankton ciklust. A dűnéket tőzegszerű gyökerű fűfélével rögzítettek, „felhízlalás” után. Az ökológiai cellákat benépesítették; a palmáriumok körül kihalt homok kiváló táptalajjá vált. Végül Kynes egy beomló barlangban elpusztult, a Gipszmedencénél. Tisztjét férfivá serdült fia örökölte.
+2. függelék: A Dűne vallása … 465. o. #TureBomoko A vallás egyik gyökere a *Maometh Saari,* de átvett az *Orániai Katolikus Liturgiá*ból is. Vannak egyezések a *Kitab al-Ibar* és a Biblia, az Ilm és a Fiqh között.
+	- A Muad-Dib előtti vallás négy fő formálója: 1. a Tizennégy Bölcs követői (Orániai Katolikus Biblia stb.), 2. a Bene Gesserit, 3. az uralkodó osztály (ill. a Liga) agnoszticizmusa, illetve 4. az *Ősi tanítások* (Zenszuni Vándorok, nava-kereszténység, buddiszlám-változatok stb., valamint a *Butleri Dzsihád*).
+	- Az ötödik formáló erő az **űrutazás,** mely eleinte csak csendes újraértelmezésre kényszerítette a vallásokat, ám a Butleri Dzsihád káosza után hosszú idő alatt megszületett az Ökumenikus Fordítók Bizottsága munkájának eredményeként az *O. K. Biblia,* a *Liturgikus Kézikönyv* és a *Kommentárok.*
+	- Józan próbálkozás volt, de ez volt bukásának oka: csak 14 delegátus nem tagadta végül meg ezt a hitet, bár Ture Bomoko keserűen kétélű vallomást tett végül ökumenizmusuk kudarcáról. Ennek ellenére 90 nemzedék alatt ez az intézmény vált egyeduralkodóvá a világmindenségben.
+	- A Kwisatz Haderach koncepciója – „az út lerövidítése”, avagy „aki egyszerre két helyen lehet” – a *Kommentárok*ra megy vissza: „Amikor a törvény és a vallási kötelesség egy és ugyanaz, az ember énje átfogja a világmindenséget.”
+	- Muad-Dib számos idézete visszavezethető az *O. K. Biblia* vagy a *Kommentárok* konkrét mondataira. Az *Azhar*-könyv pedig kimutatja ezeket a gondolatokat az első századi Nesunál, a *Taurá*ban, az *Első Iszlám*ban.
+	- Muad-Dib vallási hatásában nagy szerepe volt annak, hogy a fremen sivatagi nép volt, mely a zord körülmények között különösen fogékonnyá vált a miszticizmusra, s sokszor brutális döntésekre kényszerültek, mely során a bűntudat megengedhetetlen.
+		- „Az emberek, nem találván kész válaszokat a *sunnan*ra \[a *sunnan* volt a Shari-a tízezer vallási kérdése], most a józan eszüket használják. Minden ember \[472.] a megvilágosodásra törekszik. A vallás csak a legősibb és legtiszteletreméltóbb módja annak, ahogy az emberek értelmet igyekeztek találni Isten világegyetemében. A tudósok az események törvényszerűségeit kutatják. A vallásnak az a feladata, hogy beleillessze az embert ezekbe a törvényszerűségekbe.” (Részlet a *Kommentárok*ból) 471–2.
+		- „Az úgynevezett vallások jó része kimondatlanul ugyan, de ellenségesen viszonyult magához az élethez. Az igazi vallásnak azt kell tanítania, hogy az élet tele van Isten szemében kedves gyönyörökkel, hogy a cselekvés nélküli tudás tartalmatlan. Minden embernek meg kell értenie, hogy a szabályokat magoltató vallási tanítások jó része áltatás. A helyes tanítást könnyen föl lehet ismerni. Tévedhetetlenül meg lehet ismerni arról, hogy hallatán az ember úgy érzi, olyasvalami ez, amit voltaképpen mindig is tudott.” (Részlet a *Kommentárok*ból) 472.
+		- „A vallásnak meg kell maradnia biztonsági szelepnek azok számára, akik azt mondják magukban: »Nem olyan ember vagyok, amilyen lenni akarok.« Nem szabad odáig süllyednie, hogy az önelégültek gyülekezete legyen.” (Ture Bomoko utolsó szavai a Tupolon) 473.
+		- „Amikor a vallás és a politika egy kocsin ül, és azt a kocsit egy eleven szent ember (baraka) hajtja, akkor semmi sem állhat az útjukba.” (Bene Gesserit tanítás) 477.
+3. függelék: Jelentés a Bene Gesserit indítékairól és céljairól … 477. o. Részlet abból a Summából, amelyet saját ügynökei állítottak össze Lady Jessica kívánságára, közvetlenül az Arrakis-ügy után.
 4. függelék: Az Almanak en-Asraf (Szemelvények a Nemes Házak tagjainak életrajzaiból) … 482. o.
+	- **IV. Shaddam** #ShaddamIV 10134–10202, császár 10156–10196 a Corrino-házból való 84. Padisah Császár. Öt leánya: Irulan #Irulan, Chalice, Wensicia, Josifa és Rugi. Felesége Anirul.
+	- **Leto Atreides** #LetoAtreides 10140–10191, a Vörös Herceg
+	- **Lady Jessica** #LadyJessica (Atreides) 10154–10256
+	- **Lady Alia Atreides** #Alia 10191–, Késes Szent Alia
+	- **Vladimir Harkonnen** #VladimirHarkonnen 10110–10193 sziridár-báró.
+	- **Hasimir Fenring gróf** #FenringGróf 10133–10225 IV. Shaddam legközelebbi barátja
+	- **Glossu Rabban gróf** #GlossuRabbanHarkonnen 10132–10193 Lankiveil grófja
 # Az impérium terminológiája
-485\. o.
+485\. o. (Szószedet magyarázatokkal)
 # Jegyzetek a térképhez
-515\. o.
+515\. o. (Megjegyzések néhány földrajzi névhez)
 # Szereplők
 - #PaulAtreides herceg, fremen nevén Muad-Dib, Usul
 - #LadyJessica Paul anyja, Bene Gesserit
@@ -111,10 +130,12 @@ translator: Békés András
 - #IakinNefud Umman Kudu halála után a Harkonnen báró őrparancsnoka
 - #GaiusHelenMohiam Tisztelendő Anya, Bene Gesserit
 - #FenringGróf 
-- #LadyFenring Lady Margot
+- #LadyFenring Lady Margot, Bene Gesserit
 - #Aramsam a Császári Sardaukar Alakulat kapitánya
 - #ShaddamIV IV. Shaddam Padisah Császár
-- #Irulan IV. Shaddam lánya, Bene Gesserit
+- #Irulan IV. Shaddam lánya, Bene Gesserit, Paul felesége
+- #PardotKynes az Arrakis első ökológusa
+- #TureBomoko az ÖFB elnöke, a Zenszunik egyik ulemája, egy a Tizennégy Bölcs közül
 # Arab fordítás
 فرانك هربرت: كثيب, كويت: دار كلمات (Kuwait: Dar Kalemat), 2021, ISBN 9789921730746 (Fordító: نادر أسامة, Nader Osama)
 # Filmkritika
