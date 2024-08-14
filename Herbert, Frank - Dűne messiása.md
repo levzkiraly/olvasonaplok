@@ -14,7 +14,7 @@ endDate:
 2. 13\. o. *Ixi Bronso: Muad'dib munkásságának történeti analízise (részlet).* Hogyan vezetett a Dzsihád Muad'dib bukásához, és milyen tényezők játszottak benne szerepet. Konklúziója mégis az: végzetét maga az előrelátás okozta.
 3. 17\. o. #Scytale #GaiusHelenMohiam #Edric #Irulan Az összeesküvők megalkotják Muad'dib elleni merényletük tervét. Meg kell akadályozniuk, hogy mártír váljon belőle. Irulan ugyanakkor – aki Chaninak titokban fogamzásgátlót adagol – dinasztiát szeretne alapítani, Edric ezt próbálja kihasználni. Irulan aggódik, hogy őt fel akarják áldozni a siker érdekében. A terv: Duncan Idahót felélesztik *ghola*ként, arra kondícionálva, hogy megmérgezze Paul lelkét – a szülőbolygóján kapott erkölcsiséggel. Ugyanakkor a ghola célja az is, hogy elcsábítsa Aliát.
 4. 39\. o. #PaulAtreides #Csani #Irulan Paul lefekvés előtt beszélget Chanival. Chani felveti, hogy Irulan gyereket szeretne. Szerinte ezzel Irulan sebezhetővé válna, Paul szerint azonban megnövekedne a hatalma. Chani aggódik amiatt, hogy nem születik örökös, és aggódik Paul miatt. Paul csak tőle szeretne, de nem látta előre, hogy lesz-e. Felidézi beszélgetését Irulannal, melyben arról vitatkoztak, miért ne lehetne Irulan a trónörökös anyja. Paul és Chani megegyzik, hogy visszatérnek Tabr sziecsbe. Chani gyermeket szeretne.
-5. 60\. o. #Scytale #Baruk #BarukFia #OtheymLánya Scytale meglátogatja Barukot Arrakeen melletti házában. Baruk mesél Muad'dibről és Muad'dib jelenlegi megítéléséről a fremenek közt – a dzsihádot még a legtöbben kalandnak és gazdagság forrásának tartják. Elmeséli saját mozgatórugóját is, hogy ti. láthassa a tengert; de a találkozás a tengerrel kigyógyította a dzsihádból. Közben Scytale Baruk fiától disztransz üzenetben veszi az arrakisi összeesküvők minden adatát. Előhívják Otheym lányát; Scytale a lány figyelmét elterelve megöli az öreget és vak fiát, a lányt pedig elvezeti.
+5. 60\. o. #Scytale #Baruk #BarukFia #Lichna Scytale meglátogatja Barukot Arrakeen melletti házában. Baruk mesél Muad'dibről és Muad'dib jelenlegi megítéléséről a fremenek közt – a dzsihádot még a legtöbben kalandnak és gazdagság forrásának tartják. Elmeséli saját mozgatórugóját is, hogy ti. láthassa a tengert; de a találkozás a tengerrel kigyógyította a dzsihádból. Közben Scytale Baruk fiától disztransz üzenetben veszi az arrakisi összeesküvők minden adatát. Előhívják Otheym lányát; Scytale a lány figyelmét elterelve megöli az öreget és vak fiát, a lányt pedig elvezeti.
 	- Az univerzum befejezetlen alkotás, tudtad ezt? (Baruk mondja Scytale-nek) 73.
 6. 78\. o. #Alia #Irulan #Csani #Stilgar #PaulAtreides #Korba Az Impérium Tanácsának ülése. Kiküldik Korbát, hogy imádkozzon a zarándokokkal.
 	- Visszatérte után tárgyalnak a Tupile-szerződésről, mellyel Paul el akarja fogadni a kívánt feltételeket – Stilgar és Irulan nem érti, Paul miért nem láthatja előre a titokban tartott helyű bolygó pozícióját, ezért dogmatikus kioktatást kapnak.
@@ -39,7 +39,7 @@ endDate:
 14. 196\. o. #Edric #Scytale Feszültség az összeesküvésben – Scytale tárgyal Edrickel arról, hogy a gholát fel kéne gyorsítani, mert Paul már beszélt a Bene Gesserittel. Edric Pault és Aliát is el akarja pusztítani. Scytale szerint Alia férjhez fog menni, ami megrázza a világegyetemet, de Pault csak úgy győzhetik le, ha siettetik a gholát.
 	- A jövő iszapos áramlat. Túl sok a próféta. (Edric gondolatai) 201.
 15. 203\. o. #PaulAtreides #Csani #Hayt Chani rosszul lett a terhesség hatodik hetében, ebből tudja meg, hogy korábban fogamzásgátlót adagoltak neki. Irulant meg akarja ölni, de Paul lecsendesíti. Chani aggódik a ghola miatt, de Paul bízik benne, mert Duncant látja benne. Hayt szeretne is visszaváltozni Duncanné. Paul csupa bizonytalanság és bizakodás a sorsukat illetően.
-16. 211\. o.
+16. 211\. o. #PaulAtreides #Bannerjee #Lichna #Scytale Scytale, magára öltve Lichna vonásait, Paulnak küldött személyes üzenettel próbálja őt csapdába csalni, hogy Chanit elveszítse. Paul nem látta előre a beszélgetést, csak az ellenállása pusztító következményeit látja, ezért vállalja, hogy elmegy a találkozóra Otheymmel. A kérésnek azonban, hogy Chanit is magával vigye, ellenáll; némi latolgatás után úgy dönt, nem visz magával nőt, egyedül megy.
 17. 219\. o.
 18. 231\. o.
 19. 245\. o.
@@ -62,7 +62,7 @@ Epilógus 344\. o.
 - #Stilgar egykori fremen törzsfőnök, Paul kancellárja
 - #Baruk fremen, Stilgar rokona, dzsihádista veterán, Otheym (Otejm) egykori társa
 - #BarukFia vak veterán, balisetjátékos
-- #OtheymLánya Otheym (Otejm) lánya, Baruk fiának elkábított kedvese
+- #Lichna Otheym (Otejm) lánya, Baruk fiának elkábított kedvese
 - #Korba fremen, itt már főpap
 - #Hayt a Duncan Idaho felélesztésével nyert *ghola* identitása
 
