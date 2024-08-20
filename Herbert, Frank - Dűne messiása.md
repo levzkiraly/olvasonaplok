@@ -40,8 +40,10 @@ endDate:
 	- A jövő iszapos áramlat. Túl sok a próféta. (Edric gondolatai) 201.
 15. 203\. o. #PaulAtreides #Csani #Hayt Chani rosszul lett a terhesség hatodik hetében, ebből tudja meg, hogy korábban fogamzásgátlót adagoltak neki. Irulant meg akarja ölni, de Paul lecsendesíti. Chani aggódik a ghola miatt, de Paul bízik benne, mert Duncant látja benne. Hayt szeretne is visszaváltozni Duncanné. Paul csupa bizonytalanság és bizakodás a sorsukat illetően.
 16. 211\. o. #PaulAtreides #Bannerjee #Lichna #Scytale Scytale, magára öltve Lichna vonásait, Paulnak küldött személyes üzenettel próbálja őt csapdába csalni, hogy Chanit elveszítse. Paul nem látta előre a beszélgetést, csak az ellenállása pusztító következményeit látja, ezért vállalja, hogy elmegy a találkozóra Otheymmel. A kérésnek azonban, hogy Chanit is magával vigye, ellenáll; némi latolgatás után úgy dönt, nem visz magával nőt, egyedül megy.
-17. 219\. o.
-18. 231\. o.
+17. 219\. o. #PaulAtreides #Alia #Rasir Paul elmegy Alia Esti Szertartására. Ott találkozik Rasirral. A szertartás azonban váratlanul ér véget, de nem derül ki, miért. Feltehetőleg Alia meglátott valamit, de Paul nem jön rá, mit.
+	- Isteneiket rutinnak és feljegyzésnek hívták, mentátokat használtak. A hatékonyság lebegett a szemük előtt, bár illő figyelmet fordítottak a butleri tanításokra is. Gép nem építhető az emberi agy hasonlatosságára, hangoztatták, de jobban kedvelték a gépeket, mint az embereket, a statisztikát, mint az egyént, az általános nézeteket elébe helyezték a képzelőerőnek és kezdeményezésnek. (A Kvizarátus intézményéről) 221.
+	- Paul a zarándokokkal együtt kifújta a levegőt. Bólintott, a köd egy része kezdett felszállni. Megfeledkezett arról, hogy minden látomás minden úton lévő emberé. A látomás alatt át kell haladni a sötétségen, ahol nem lehet megkülönböztetni a valóságot az álomtól. Az ember a soha el nem érhető tökéletességre vágyik. Vágyakozása közben elveszíti a jelent. 227.
+18. 231\. o. #Rasir #PaulAtreides #Bijaz #Otejm #Dhuri Rasir elbocsátja Pault az út vége felé, ő pedig megérkezik Otheym házába. Minden pontosan a víziói szerint történik, de egyes részleteket, mint például Bijazt, nem látott előre. Otheym betegen fogadja feleségével. Paulnak adja a törpét, akinek a tudata alatt elraktározta az árulók neveit. Bijazt sokat felesel, de végül sürgetve Pault eltávozik vele.
 19. 245\. o.
 20. 253\. o.
 21. 274\. o.
@@ -60,9 +62,12 @@ Epilógus 344\. o.
 - #GaiusHelenMohiam Tisztelendő Anya, Bene Gesserit
 - #Edric az Űrliga navigátora, tartályban élő halszerű emberforma
 - #Stilgar egykori fremen törzsfőnök, Paul kancellárja
-- #Baruk fremen, Stilgar rokona, dzsihádista veterán, Otheym (Otejm) egykori társa
+- #Baruk fremen, Stilgar rokona, dzsihádista veterán, Otheym egykori társa
 - #BarukFia vak veterán, balisetjátékos
-- #Lichna Otheym (Otejm) lánya, Baruk fiának elkábított kedvese
+- #Otejm (Otheym) fremen, egykori fedaykin
+- #Lichna Otheym lánya, Baruk fiának elkábított kedvese
+- #Dhuri Otheym felesége
 - #Korba fremen, itt már főpap
 - #Hayt a Duncan Idaho felélesztésével nyert *ghola* identitása
-
+- #Rasir fremen, Paul egykori sziecsbeli társa
+- #Bijaz törpe, tleilaxi ghola
