@@ -44,18 +44,46 @@ endDate:
 	- Isteneiket rutinnak és feljegyzésnek hívták, mentátokat használtak. A hatékonyság lebegett a szemük előtt, bár illő figyelmet fordítottak a butleri tanításokra is. Gép nem építhető az emberi agy hasonlatosságára, hangoztatták, de jobban kedvelték a gépeket, mint az embereket, a statisztikát, mint az egyént, az általános nézeteket elébe helyezték a képzelőerőnek és kezdeményezésnek. (A Kvizarátus intézményéről) 221.
 	- Paul a zarándokokkal együtt kifújta a levegőt. Bólintott, a köd egy része kezdett felszállni. Megfeledkezett arról, hogy minden látomás minden úton lévő emberé. A látomás alatt át kell haladni a sötétségen, ahol nem lehet megkülönböztetni a valóságot az álomtól. Az ember a soha el nem érhető tökéletességre vágyik. Vágyakozása közben elveszíti a jelent. 227.
 18. 231\. o. #Rasir #PaulAtreides #Bijaz #Otejm #Dhuri Rasir elbocsátja Pault az út vége felé, ő pedig megérkezik Otheym házába. Minden pontosan a víziói szerint történik, de egyes részleteket, mint például Bijazt, nem látott előre. Otheym betegen fogadja feleségével. Paulnak adja a törpét, akinek a tudata alatt elraktározta az árulók neveit. Bijazt sokat felesel, de végül sürgetve Pault eltávozik vele.
-19. 245\. o.
-20. 253\. o.
-21. 274\. o.
-22. 287\. o.
-23. 301\. o.
-24. 311\. o.
-25. 335\. o.
+19. 245\. o. #PaulAtreides #Bijaz #Stilgar Paul átadja Bijazt Stilgarnak. A katonák az Otheymével szomszédos ház felé indulnak, de hamarosan kőégető gyullad ki azon a helyen. A katonákhoz hasonlóan Paul is elveszíti a látását, de a látomása olyan pontos, hogy úgy közlekedik, mintha látna. Paul megtiltja a vakok sivatagba küldését, és a megvakult katonáknak tleilaxi szemeket rendel.
+20. 253\. o. #Csani #PaulAtreides #LadyJessica #Alia #Korba #Stilgar Míg Korbát bíróság elé idézik, Chani és Paul beszélgetnek. Paul vidékre költözésüket ígéri, Chani nyugtatni próbálja, de megriasztja Paul öngyűlölete és politikai pesszimizmusa. Aliát felkavarja anyja politikai filozófiai levele, de Pault helyettesítve megkezdi Korba tárgyalásának elnökölését. Paul is megérkezik, tisztázza, hogy Otheym vádja miként érvényes, s számon kéri Korbán, hogy a kőégető miként szolgálhatott volna „védelmi célokat”. Korba fremen jogra hivatkozva elkerüli az ítéletet, ezért a tárgyalás félbeszakad. Paul visszavonul, Alia helyettesíti őt a kezdődő audiencián. Alia és Stilgar jelzik egymás felé a másikban látott bizonytalanságot.
+	- „Halálos paradoxont hoztok létre” – írta Jessica. „Egyetlen kormányzat sem lehet vallásos irányultságú és alkotmányos egyidőben. A vallásosság esetlegességet követel, ezt a törvények kizárják. Törvények nélkül pedig nem lehet kormányozni. A törvényeitek előbb-utóbb a moralitás helyébe lépnek, felváltják az egyetértést, s előbb-utóbb a vallást is, melyet eszközként alkalmaztok. Az igazi rituálék mindig megteremtik a maguk moralitását. A kormányzat azonban természeténél fogva hajlamos engedni a kételyeknek, kérdéseknek, kívánalmaknak. Látom a napot, amikor a hit helyébe a ceremónia, a morál helyébe a szimbolizmus lép…” (Lady Jessica levele gyermekeinek) 261.
+21. 274\. o. #Hayt #Bijaz Hayt és Bijaz először találkozik. Bijaz azzal hergeli a másikat, hogy győzködi, ő Duncan Idaho. Elárulja, hogy tleilaxi, s őt Hayt előtt nem sokkal élesztették újra hozzá hasonlóan. Kommentálja Hayt vonzódását Aliához, majd „énekel” neki – hipnózisban programot ad neki Paul meggyilkolására – végigmondja a tleilaxiak tervét Paul és Chani gholaként történő újraélesztésére és irányítására – és e programozás elfelejtésére.
+	- Tibana a szokratikus kereszténység ideológusa volt, minden valószínűség szerint az Anbus IV lakója, a Corrinók előtti nyolcadik-kilencedik század fordulóján élt, Dalmark uralkodásának második periódusa alatt. Írásainak csak egy része maradt fenn, ebből származik az alábbi töredék: „Minden ember szíve ugyanazon vadonban él.” (Mottó; *Irulan Dűnekönyvéből*) 274.
+22. 287\. o. #Hayt #Alia Hayt távolról figyeli Aliát, valami nyugtalanítja vele kapcsolatban. Alia még a templomban bevette élete legnagyobb fűszeradagját, hogy áttörje a jövőt borító homály korlátját. Találkozik Hayttel a császári szállás balkonján. A ráereszkedő révületben látja a Bene Gesserit tervét, hogy „átugorjon” Paulon, s látja a saját gyermekét is, de nem látja a gyermeke apját – Hayt mentátként kikövetkezteti, hogy a Bene Gesserit Pault szánja annak. A ghola orvost hív, megmenti a túladagolás hatásától, ebben Alia megérzi a szeretetét, ugyanakkor meglátja Paul útját is, bár nem érti, miért végzetszerű.
+	- Alia is a labdát nézte. Valami bizonytalan rokonságot érzett vele, ahogy ide-oda pattan… Mintha eltévedt volna az idő folyosóinak útvesztőjében. 289.
+	- A jövőbelátás előbb-utóbb veszélyes fatalistává teszi az embert (Alia gondolata) 289.
+23. 301\. o. #Csani #PaulAtreides #Hayt Chani Tabr sziecsben pihen, vihar elől vonul menedékbe. Hayt sietteti, aki borzong a gholától. Hayt magát is meglepi a pánikkal, amit a Chani iránti aggódása szül, s Bijazt sejti a dolog mögött.
+	- Ne harcolj az elkerülhetetlennel! Ha küzdesz, az annyit jelent, kudarctól tartasz. Ne érezd úgy, hogy *teljesítened* kell! Ha így teszel, elérhetsz *bármit.* (Hayt tanácsai Chaninak a szülés idejére) 308.
+24. 311\. o. #PaulAtreides #Hayt #DuncanIdaho #Tandis #Alia #Lichna #Scytale #LetoIker #Ghanima #Bijaz Paul megérkezik Tabr sziecsbe, elmélkedik a víz és a szeretet iránti szükségen. Hayt aggódik érte, beszél neki Bijazról. Paul győzködi, hogy azonosuljon Duncan Idahóval, és szabaduljon meg a gholától. Paul megérzi Chani szólítását, s visszaemlékezik arra, hogyan érzékenyült el indulásuk napján Paul kedvenc kabátját látva. Tandis hozza a hírt, hogy Chani meghalt, ez beindítja a ghola programját, de a Duncan-identitás legyőzi. Paul Chanihoz vezetteti magát, s megtudja, hogy két gyermeke született – amit nem látott előre. Paul keresi a vízióktól mentes jövőt. Harah megmutatja neki a gyermekeket. Alia zavarja meg őket, nem tudja távol tartani a még Lichna képében megjelenő Scytale-t, aki a gyermekek meggyilkolásával zsarolja meg Pault, hogy adja át teljes vagyonát, cserébe Chanit gholaként újraélesztik. Paul mentális kapcsolatba kerül tudatára ébredt fiával, s az ő szemein keresztül látva meggyilkolja Scytale-t. Míg Chanit a vízszertartásra viszik, Bijaz is megkísérti őt az újraélesztéssel, de Paul Duncannel elintézteti.
+25. 335\. o. #DuncanIdaho #Tandis #Stilgar #Alia Megtudjuk, hogy Paul nekiment a sivatagnak. Duncan Idahót az önvád gyötri miatta. Paul sorsán töpreng, s ráébred, hogy a sivatag teljesíti be Paul küldetését. Stilgar mutat rá, hogy ezzel vált Paul igazán mitikus lénnyé. Alia vezetésével elkezdték az árulók kivégzését; Stilgar – Paul parancsa ellenére – kivégezte Mohiam Tisztelendő Anyát is. Alia Duncan szerelmében keres menedéket a gyászban.
 Epilógus 344\. o.
+- Nem ébred dal, hogy Muad'dibért szóljon
+  Áradva búsan a sivatag felett,
+  Árnyaktól elperelni gyászmécset nem gyújt érte senki.
+  Örült szent ő, aranyló ködből született
+  Valóság határán lakozó idegen és régi jóbarát;
+  Csak hunyd le szemed, s megláthatod.
+  Magányos láng, dacolva csillagok hidegével
+  Az idők kezdetétől állhat ott!
+  Roppant kerekét a Sorsnak fordítják látomásai,
+  Hangja bíbor békét hoz s ébreszt új életet
+  Próféta ő, örökkön visszhangzó szavú,
+  Ezüst folyam hűs vizéhez vezeti népét.
+  Alakját övezi titokból szőtt köpeny,
+  Homoktenger partján Terád vár, Shai-hulud;
+  Ott, hol szeretők fonják egymásba karjaik,
+  S a szerelem tüzét őrizi daluk.
+  \[345.]Világtalan látnok, Dűne Messiása!
+  Idő folyosóinak magányos vándora!
+  Megpihent már a nyughatatlan szív,
+  Maga a világ őrült, fenséges álmaid otthona!
 
+Fejléc-dekoráció: عر زخرفات زخرفات عربية (zukhrufāt \`arabiya) – "ar díszítések arab díszítések"
 # Szereplők
 - #PaulAtreides Paul Muad'dib császár
 - #Csani Chani, Paul ágyasa
+- #LetoIker Paul ikerfia Chanitól
+- #Ghanima Paul ikerlánya Chanitól
 - #Alia Paul húga, Lady Jessica lánya, aki az anyaméhben Tisztelendő Anya lett
 - #Irulan IV. Shaddam lánya, Bene Gesserit, Paul felesége
 - #Scytale tleilaxi Arctáncoltató
@@ -67,7 +95,10 @@ Epilógus 344\. o.
 - #Otejm (Otheym) fremen, egykori fedaykin
 - #Lichna Otheym lánya, Baruk fiának elkábított kedvese
 - #Dhuri Otheym felesége
-- #Korba fremen, itt már főpap
+- #Korba fremen, főpap, egykori fedaykin
 - #Hayt a Duncan Idaho felélesztésével nyert *ghola* identitása
+- #DuncanIdaho vívómester
 - #Rasir fremen, Paul egykori sziecsbeli társa
 - #Bijaz törpe, tleilaxi ghola
+- #Tandis fremen, fedaykin hadnagy
+- #Harah itt: Stilgar felesége
