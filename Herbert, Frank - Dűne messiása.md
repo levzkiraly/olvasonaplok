@@ -8,7 +8,7 @@ isbn: 963-7632-03-4
 language: Hungarian
 translator: Gáspár András
 startDate: 2024-06-30
-endDate:
+endDate: 2024-08-22
 ---
 1. 7\. o. *Siralomházi beszélgetés az ixi Bronsóval (részlet).* Ezt a bizonyos történészt, Bronsót azért ítélték el, mert azt állította, hogy „Paul Atreides sokat veszített emberségéből, mielőtt Muad'dibbé lett.”
 2. 13\. o. *Ixi Bronso: Muad'dib munkásságának történeti analízise (részlet).* Hogyan vezetett a Dzsihád Muad'dib bukásához, és milyen tényezők játszottak benne szerepet. Konklúziója mégis az: végzetét maga az előrelátás okozta.
